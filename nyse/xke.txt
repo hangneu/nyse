@@ -1,0 +1,1673 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<!-- Created by: EDGAR Online, Inc. EDGAR Filing HTML Converter, Version: 4.63, http://www.edgar-online.com -->
+<TITLE> LEHMAN ABS CORP BCKD TR CRTS TOYS R US DB BCK SE 01-31 (Form: 10-K, Received: 03/30/2016 15:56:38) </TITLE>
+<META NAME="TABLES" CONTENT="FIS_FORM **FIS_PART_I **FIS_BUSINESS **FIS_RISK_FACTORS **FIS_UNRESOLVED_STAFF_COMMENTS **FIS_PROPERTIES **FIS_LEGAL_PROCEEDINGS **FIS_VOTING_MATTERS **FIS_PART_II **FIS_MARKET **FIS_FINANCIAL_DATA **FIS_MANAGEMENTS_DISCUSSION **FIS_MARKET_RISK **FIS_FINANCIAL_STATEMENTS **FIS_ACCOUNTING_CHANGES **FIS_CONTROL_AND_PROCEDURES **FIS_OTHER_INFORMATION **FIS_PART_III **FIS_DIRECTORS_AND_OFFICERS **FIS_COMPENSATION **FIS_SECURITY_OWNERS **FIS_OFFICER_TRANSACTIONS **FIS_ACCOUNTANT_FEES **FIS_PART_IV **FIS_EXHIBITS **FIS_SIGNATURES **FIS_EXHIBIT_INDEX FIS_EXHIBIT_31 **FIS_CERTIFICATION FIS_EXHIBIT_31_2 ">
+<META NAME="DETECTED PAGES" CONTENT="8">
+<STYLE TYPE="text/css">
+<!--
+	body          { background-color: white; color: black }
+	.eolNewPage   { page-break-after: always; line-height: 0; height: 0; margin: 0; padding: 0 }
+	.eolLeftAlign { text-align: left; margin-left: auto; margin-right: auto }
+	.eolCenter    { text-align: center }
+	a:link        { color: blue }
+	a:active      { color: red }
+	a:visited     { color: purple }
+	
+	@media print
+	{
+		@page           { margin: 0.25in }
+		body            { font-size: 10pt }
+		a               { text-decoration: none }
+		thead           { display: table-header-group }
+		tfoot           { display: table-footer-group }
+		hr.eolPageBreak { display: none }
+		.eolPrint50pt   { font-size: 5pt }
+		.eolPrint55pt   { font-size: 5.5pt }
+		.eolPrint60pt   { font-size: 6pt }
+		.eolPrint65pt   { font-size: 6.5pt }
+		.eolPrint70pt   { font-size: 7pt }
+		.eolPrint75pt   { font-size: 7.5pt }
+		.eolPrint80pt   { font-size: 8pt }
+		.eolPrint85pt   { font-size: 8.5pt }
+		.eolPrint90pt   { font-size: 9pt }
+		.eolPrint95pt   { font-size: 9.5pt }
+	}
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<A NAME="eolPage1"></A>
+<A NAME="FIS_TOP_OF_DOCUMENT"></A>
+
+<A NAME="D164795D10K_HTM"></A>
+<EFX_FORM>
+<A NAME="FIS_FORM"></A>
+<P STYLE="LINE-HEIGHT:1.0PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT;BORDER-BOTTOM:1PX SOLID #000000">
+	&nbsp;
+</P>
+<P STYLE="LINE-HEIGHT:3.0PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:2PT;BORDER-BOTTOM:1PX SOLID #000000">
+	&nbsp;
+</P>
+<P STYLE="MARGIN-TOP:4PT; MARGIN-BOTTOM:0PT; FONT-SIZE:18PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	UNITED STATES
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:18PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	SECURITIES AND EXCHANGE COMMISSION
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:12PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	WASHINGTON, D.C. 20549
+</B>
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<CENTER>
+<P STYLE="LINE-HEIGHT:6.0PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:2PT;BORDER-BOTTOM:1.00PT SOLID #000000;WIDTH:21%">
+	&nbsp;
+</P>
+</CENTER>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:18PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	FORM
+<FONT STYLE="WHITE-SPACE:NOWRAP">
+	10-K
+</FONT>
+</B>
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<CENTER>
+<P STYLE="LINE-HEIGHT:6.0PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:2PT;BORDER-BOTTOM:1.00PT SOLID #000000;WIDTH:21%">
+	&nbsp;
+</P>
+</CENTER>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	(Mark One)
+</B>
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:12PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+<B>
+</B>
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+<B>
+</B>
+<B>
+</B>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<B>
+	ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+</B>
+</TD>
+</TR>
+</TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	For the fiscal year ended December&nbsp;31, 2015
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	or
+</B>
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:12PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+<B>
+</B>
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+<B>
+</B>
+<B>
+</B>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<B>
+	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+</B>
+</TD>
+</TR>
+</TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	For the transition period from
+<U>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</U>
+	to
+<U>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</U>
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Commission File Number:&nbsp;001-31857
+</B>
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<CENTER>
+<P STYLE="LINE-HEIGHT:6.0PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:2PT;BORDER-BOTTOM:1.00PT SOLID #000000;WIDTH:21%">
+	&nbsp;
+</P>
+</CENTER>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	filed on
+	behalf of:
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:24PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Corporate Backed Trust Certificates, Toys &#147;R&#148; Us Debenture-Backed Series 2001-31 Trust
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	(Exact Name of Registrant as Specified in Its Charter)
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	by:
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:24PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Lehman ABS
+	Corporation
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	(Exact Name of Depositor as Specified in Its Charter)
+</B>
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<CENTER>
+<P STYLE="LINE-HEIGHT:6.0PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:2PT;BORDER-BOTTOM:1.00PT SOLID #000000;WIDTH:21%">
+	&nbsp;
+</P>
+</CENTER>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE"></A>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:8PT" ALIGN="CENTER">
+<TR>
+<TD WIDTH="50%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="48%">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	Delaware
+</B>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	13-3447441
+</B>
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:8PT">
+<TD VALIGN="TOP" ALIGN="CENTER">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	(State or other jurisdiction of
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:1PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	incorporation or organization)
+</B>
+</P>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	(I.R.S. Employer
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:1PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Identification No.)
+</B>
+</P>
+</TD>
+</TR>
+</TABLE>
+</EFX_UNIDENTIFIED_TABLE>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" ALIGN="CENTER">
+<TR>
+<TD WIDTH="50%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="48%">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	1271 Avenue of the Americas, New York, New York
+</B>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	10020
+</B>
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:8PT">
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	(Address of principal executive offices)
+</B>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	(Zip Code)
+</B>
+</TD>
+</TR>
+</TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Registrant&#146;s telephone number, including area code:&nbsp;(646) 285-9000
+</B>
+</P>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE_2"></A>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Securities registered pursuant to Section 12(b) of the Act:
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT;PAGE-BREAK-BEFORE:ALWAYS">
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" ALIGN="CENTER">
+<TR>
+<TD WIDTH="50%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="48%">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:8PT">
+<TD VALIGN="BOTTOM" NOWRAP ALIGN="CENTER">
+<B>
+<U>
+	Title of Each Class
+</U>
+</B>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM" NOWRAP ALIGN="CENTER">
+<B>
+<U>
+	Name of Each Exchange on
+</U>
+<U>
+</U>
+<U>
+	Which Registered
+</U>
+</B>
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" ALIGN="CENTER">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+	Corporate Backed Trust Certificates, Toys &#147;R&#148; Us
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:1PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+	Debenture-Backed Series 2001-31
+</P>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER">
+	New York Stock Exchange (&#147;NYSE&#148;)
+</TD>
+</TR>
+</TABLE>
+</EFX_UNIDENTIFIED_TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Securities registered pursuant to Section 12(g) of the Act: None
+</B>
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<CENTER>
+<P STYLE="LINE-HEIGHT:6.0PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:2PT;BORDER-BOTTOM:1.00PT SOLID #000000;WIDTH:21%">
+	&nbsp;
+</P>
+</CENTER>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.&nbsp;&nbsp;&nbsp;&nbsp;
+	Yes&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+	&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.&nbsp;&nbsp;&nbsp;&nbsp;
+	Yes&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+	&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+	during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+	&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check mark
+	whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (&#167; 232.405 of this chapter) during the
+	preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).&nbsp;Not applicable.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check
+	mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (&#167;229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in definitive proxy or information
+	statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer. See definition of
+	&#147;accelerated filer and large accelerated filer&#148; in Rule 12b-2 of the Exchange Act. (Check one):
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" ALIGN="CENTER">
+<TR>
+<TD WIDTH="17%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="59%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="20%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="1%">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="BOTTOM">
+	Large&nbsp;Accelerated&nbsp;Filer
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	Accelerated&nbsp;Filer
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="8">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="BOTTOM">
+	Non-Accelerated Filer
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	Smaller&nbsp;reporting&nbsp;company
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+</TD>
+</TR>
+</TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+	Act).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+	&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common
+	equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant&#146;s most recently completed second fiscal quarter.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	The registrant has no voting stock or class of common stock that is held by non-affiliates.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	DOCUMENTS INCORPORATED BY REFERENCE
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	The
+	distribution reports to security holders filed on Form 8-K during the fiscal year in lieu of reports on Form
+<FONT STYLE="WHITE-SPACE:NOWRAP">
+	10-Q
+</FONT>
+	which include the reports filed on Form 8-K listed in Item 15(a) hereto are incorporated by
+	reference into part IV of this Annual Report.
+</P>
+<P STYLE="FONT-SIZE:10PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<P STYLE="LINE-HEIGHT:1.0PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT;BORDER-BOTTOM:1PX SOLID #000000">
+	&nbsp;
+</P>
+<P STYLE="LINE-HEIGHT:3.0PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:2PT;BORDER-BOTTOM:1PX SOLID #000000">
+	&nbsp;
+</P>
+<A NAME="eolPage2"></A>
+<P STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+<HR SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Introductory Note
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Lehman ABS Corporation (the &#147;Depositor&#148; or the &#147;Registrant&#148;) is the Depositor in respect of the Corporate Backed Trust Certificates, Toys
+	&#147;R&#148; Us Debenture-Backed Series 2001-31 Trust (the &#147;Trust&#148;), a common law trust formed pursuant to the Standard Terms for Trust Agreements, dated as of January&nbsp;16, 2001,
+<B>
+</B>
+	between the Depositor and U.S. Bank Trust
+	National Association, as trustee (the &#147;Trustee&#148;), as supplemented by a Series Supplement (the &#147;Series Supplement&#148;) dated as of July&nbsp;31, 2001
+<B>
+</B>
+	in respect of the Trust. The Trust&#146;s assets consist solely of
+	debentures issued by Toys &#147;R&#148; Us, Inc. The Certificates do not represent obligations of or interests in the Depositor or the Trustee.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	The
+	Depositor is a wholly-owned, indirect subsidiary of Lehman Brothers Holdings Inc. (&#147;LBHI&#148;).&nbsp;On September&nbsp;15, 2008 and periodically thereafter, LBHI and certain of its subsidiaries (collectively, the &#147;Debtors&#148;) commenced
+	voluntary cases under chapter 11 of title 11 of the United States Code with the United States Bankruptcy Court for the Southern District of New York (the &#147;Bankruptcy Court&#148;) (jointly administered proceedings,
+<I>
+	In re Lehman Brothers
+	Holdings Inc.
+</I>
+	et al., Case Number 08-13555). LBHI and Lehman Brothers Inc. have sold since September&nbsp;15, 2008 significant businesses, including the sale on September&nbsp;21, 2008 of the investment banking business to Barclays Capital Inc.,
+	which business included the employees who historically conducted the Registrant&#146;s business.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	On December 6, 2011, the Bankruptcy Court entered an
+	order (the &#147;Confirmation Order&#148;) confirming the Modified Third Amended Joint Chapter 11 Plan of Lehman Brothers Holdings Inc. and its Affiliated Debtors (the &#147;Plan&#148;).&nbsp;The Plan and the Confirmation Order were attached as
+	Exhibit 2.1 and Exhibit 2.2, respectively, to LBHI&#146;s Current Report on Form 8-K filed with the Securities and Exchange Commission on December&nbsp;14, 2011.&nbsp;LBHI&#146;s Current Report on Form 8-K filed with the Securities and Exchange
+	Commission on December&nbsp;14, 2011 contains a summary of the Plan.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	On March 6, 2012 (the &#147;Effective Date&#148;), the Plan became effective and a
+	notice of the Effective Date of the Plan (the &#147;Notice of Effective Date&#148;) was filed with the Bankruptcy Court.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Toys &#147;R&#148; Us, Inc., the
+	issuer of the underlying securities, is subject to the information reporting requirements of the Securities Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;). For information on the issuer of the underlying securities, please see its
+	periodic and current reports filed with the Securities and Exchange Commission (the &#147;Commission&#148;) under Toys &#147;R&#148; Us, Inc.&#146;s Exchange Act file number, 001-11609. The Commission maintains a site on the World Wide Web at
+	&#147;http://www.sec.gov&#148; at which users can view and download copies of reports, proxy and information statements and other information regarding issuers filed electronically through the Electronic Data Gathering, Analysis and Retrieval
+	system, or &#147;EDGAR.&#148; Periodic and current reports and other information required to be filed pursuant to the Exchange Act by the issuer of the underlying securities may be accessed on this site. Neither the Depositor nor the Trustee has
+	participated in the preparation of such reporting documents, or made any due diligence investigation with respect to the information provided therein. Neither the Depositor nor the Trustee has verified the accuracy or completeness of such documents
+	or reports. There can be no assurance that events affecting the issuer of the underlying securities or the underlying securities have not occurred or have not yet been publicly disclosed which would affect the accuracy or completeness of the
+	publicly available documents described above.
+</P>
+<EFX_PART_I>
+<A NAME="FIS_PART_I"></A>
+<P STYLE="MARGIN-TOP:24PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	PART I
+</B>
+</P>
+<EFX_BUSINESS>
+<A NAME="FIS_BUSINESS"></A>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 1. Business.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+</EFX_BUSINESS>
+<EFX_RISK_FACTORS>
+<A NAME="FIS_RISK_FACTORS"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 1A. Risk Factors.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+</EFX_RISK_FACTORS>
+<EFX_UNRESOLVED_STAFF_COMMENTS>
+<A NAME="FIS_UNRESOLVED_STAFF_COMMENTS"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 1B. Unresolved Staff Comments.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+</EFX_UNRESOLVED_STAFF_COMMENTS>
+<EFX_PROPERTIES>
+<A NAME="FIS_PROPERTIES"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 2. Properties
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+<A NAME="eolPage3"></A>
+<P STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+<HR SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+</EFX_PROPERTIES>
+<EFX_LEGAL_PROCEEDINGS>
+<A NAME="FIS_LEGAL_PROCEEDINGS"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 3. Legal Proceedings.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	None
+</P>
+</EFX_LEGAL_PROCEEDINGS>
+<EFX_VOTING_MATTERS>
+<A NAME="FIS_VOTING_MATTERS"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 4. Submission of Matters to a Vote
+	of Security Holders.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	None
+</P>
+</EFX_VOTING_MATTERS>
+</EFX_PART_I>
+<EFX_PART_II>
+<A NAME="FIS_PART_II"></A>
+<P STYLE="MARGIN-TOP:24PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	PART II
+</B>
+</P>
+<EFX_MARKET>
+<A NAME="FIS_MARKET"></A>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 5. Market for
+	Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	The publicly offered
+	Certificates representing investors&#146; interest in the Trust are represented by one or more physical Certificates registered in the name of &#147;Cede &amp; Co.&#148;, the nominee of The Depository Trust Company. Those publicly offered
+	Certificates are listed on the NYSE.
+</P>
+</EFX_MARKET>
+<EFX_FINANCIAL_DATA>
+<A NAME="FIS_FINANCIAL_DATA"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 6. Selected Financial Data.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+</EFX_FINANCIAL_DATA>
+<EFX_MANAGEMENTS_DISCUSSION>
+<A NAME="FIS_MANAGEMENTS_DISCUSSION"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 7.
+<I>
+</I>
+	Management&#146;s Discussion and Analysis of Financial Condition and Results of Operation.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+</EFX_MANAGEMENTS_DISCUSSION>
+<EFX_MARKET_RISK>
+<A NAME="FIS_MARKET_RISK"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 7A.
+<I>
+</I>
+	Quantitative and Qualitative Disclosures About Market Risk.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+</EFX_MARKET_RISK>
+<EFX_FINANCIAL_STATEMENTS>
+<A NAME="FIS_FINANCIAL_STATEMENTS"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 8. Financial Statements
+	and Supplementary Data.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+</EFX_FINANCIAL_STATEMENTS>
+<EFX_ACCOUNTING_CHANGES>
+<A NAME="FIS_ACCOUNTING_CHANGES"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	None
+</P>
+</EFX_ACCOUNTING_CHANGES>
+<EFX_CONTROL_AND_PROCEDURES>
+<A NAME="FIS_CONTROL_AND_PROCEDURES"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 9A. Controls and Procedures.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 9A(T). Controls
+	and Procedures.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+</EFX_CONTROL_AND_PROCEDURES>
+<EFX_OTHER_INFORMATION>
+<A NAME="FIS_OTHER_INFORMATION"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item
+	9B. Other Information.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	None
+</P>
+</EFX_OTHER_INFORMATION>
+</EFX_PART_II>
+<EFX_PART_III>
+<A NAME="FIS_PART_III"></A>
+<P STYLE="MARGIN-TOP:24PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	PART III
+</B>
+</P>
+<EFX_DIRECTORS_AND_OFFICERS>
+<A NAME="FIS_DIRECTORS_AND_OFFICERS"></A>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 10. Directors,
+	Executive Officers and Corporate Governance.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+</EFX_DIRECTORS_AND_OFFICERS>
+<EFX_COMPENSATION>
+<A NAME="FIS_COMPENSATION"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 11. Executive Compensation.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not
+	Applicable
+</P>
+</EFX_COMPENSATION>
+<EFX_SECURITY_OWNERS>
+<A NAME="FIS_SECURITY_OWNERS"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+</EFX_SECURITY_OWNERS>
+<EFX_OFFICER_TRANSACTIONS>
+<A NAME="FIS_OFFICER_TRANSACTIONS"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 13. Certain
+	Relationships and Related Transactions, and Director Independence.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	None
+</P>
+</EFX_OFFICER_TRANSACTIONS>
+<EFX_ACCOUNTANT_FEES>
+<A NAME="FIS_ACCOUNTANT_FEES"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item 14. Principal Accountant Fees and Services.
+</U>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable
+</P>
+<A NAME="eolPage4"></A>
+<P STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+<HR SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+</EFX_ACCOUNTANT_FEES>
+</EFX_PART_III>
+<EFX_PART_IV>
+<A NAME="FIS_PART_IV"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	PART IV
+</B>
+</P>
+<EFX_EXHIBITS>
+<A NAME="FIS_EXHIBITS"></A>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<U>
+	Item&nbsp;15. Exhibits, Financial Statement Schedules.
+</U>
+</P>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">
+	&nbsp;
+</TD>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+	(a)
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	The following documents have been filed as part of this report.
+</TD>
+</TR>
+</TABLE>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%" VALIGN="TOP" ALIGN="LEFT">
+	1.
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	Trustee&#146;s Distribution Statements documented on Form 8-K regarding the distributions from the Trust to the certificateholders for the period from January&nbsp;1, 2015 through and including December&nbsp;31, 2015
+	have been filed with the Securities and Exchange Commission and are hereby incorporated by reference. Filing dates are listed below:
+</TD>
+</TR>
+</TABLE>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE_3"></A>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="76%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" ALIGN="CENTER">
+<TR>
+<TD WIDTH="70%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="5%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="5%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:8PT">
+<TD VALIGN="BOTTOM" NOWRAP>
+<P STYLE="BORDER-BOTTOM:1.00PT SOLID #000000; WIDTH:56.10PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Trust Description
+</P>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="BOTTOM" COLSPAN="2" ALIGN="CENTER" STYLE="BORDER-BOTTOM:1.00PT SOLID #000000">
+	Distribution&nbsp;Date
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="BOTTOM" COLSPAN="2" ALIGN="CENTER" STYLE="BORDER-BOTTOM:1.00PT SOLID #000000">
+	Filed&nbsp;on
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP">
+<P STYLE="MARGIN-LEFT:1.00EM; TEXT-INDENT:-1.00EM; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Corporate Backed Trust Certificates, Toys &#147;R&#148; Us Debenture-Backed Series 2001-31 Trust
+</P>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+<BR>
+<P STYLE="MARGIN-BOTTOM:1PT; MARGIN-TOP:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	&nbsp;
+</P>
+</TD>
+<TD VALIGN="BOTTOM" ALIGN="RIGHT">
+	03/02/2015
+<BR>
+<P STYLE="MARGIN-BOTTOM:1PT; MARGIN-TOP:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="RIGHT">
+	09/01/2015
+</P>
+</TD>
+<TD NOWRAP VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+<BR>
+<P STYLE="MARGIN-BOTTOM:1PT; MARGIN-TOP:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	&nbsp;&nbsp;
+</P>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+<BR>
+<P STYLE="MARGIN-BOTTOM:1PT; MARGIN-TOP:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	&nbsp;
+</P>
+</TD>
+<TD VALIGN="BOTTOM" ALIGN="RIGHT">
+	03/10/2015
+<BR>
+<P STYLE="MARGIN-BOTTOM:1PT; MARGIN-TOP:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="RIGHT">
+	09/10/2015
+</P>
+</TD>
+<TD NOWRAP VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+<BR>
+<P STYLE="MARGIN-BOTTOM:1PT; MARGIN-TOP:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	&nbsp;&nbsp;
+</P>
+</TD>
+</TR>
+</TABLE>
+</EFX_UNIDENTIFIED_TABLE>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%" VALIGN="TOP" ALIGN="LEFT">
+	2.
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	None.
+</TD>
+</TR>
+</TABLE>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%" VALIGN="TOP" ALIGN="LEFT">
+	3.
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	Exhibits:
+</TD>
+</TR>
+</TABLE>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:13%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	31.1 &#150; Certification by Senior Vice President and Controller of the Registrant
+	pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:13%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	31.2 &#150; Annual Compliance
+	Report by Trustee pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:13%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	The Trust
+	covered by this Annual Report was formed prior to June&nbsp;30, 2003 and there is no requirement in the trust agreement for the preparation of a report by an independent public accountant regarding the Trustee&#146;s compliance with its obligations.
+</P>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">
+	&nbsp;
+</TD>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+	(b)
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	See Item 15(a) above.
+</TD>
+</TR>
+</TABLE>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">
+	&nbsp;
+</TD>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+	(c)
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	Not Applicable.
+</TD>
+</TR>
+</TABLE>
+<A NAME="eolPage5"></A>
+<P STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+<HR SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+</EFX_EXHIBITS>
+</EFX_PART_IV>
+<EFX_SIGNATURES>
+<A NAME="FIS_SIGNATURES"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	SIGNATURES
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be
+	signed on its behalf by the undersigned thereunto duly authorized. In preparing this report the Registrant has relied on Distribution Statements provided to it by the Trustee.
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TR>
+<TD WIDTH="44%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="4%">
+</TD>
+<TD VALIGN="BOTTOM">
+</TD>
+<TD WIDTH="5%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="44%">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP">
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP">
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM" COLSPAN="3">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Lehman ABS Corporation, as Depositor for the
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:1PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Trust
+</P>
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="16">
+</TD>
+<TD HEIGHT="16" COLSPAN="2">
+</TD>
+<TD HEIGHT="16" COLSPAN="2">
+</TD>
+<TD HEIGHT="16" COLSPAN="2">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="BOTTOM">
+	Dated:&nbsp;March 30, 2016
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	By:
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:1PT; BORDER-BOTTOM:1PX SOLID #000000; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	/s/
+<I>
+	Clifford S. Feibus
+</I>
+</P>
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP">
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP">
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	Name:
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	Clifford S. Feibus
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="BOTTOM">
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	Title:
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	Senior Vice President and Controller
+</TD>
+</TR>
+</TABLE>
+<A NAME="eolPage6"></A>
+<P STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+<HR SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+</EFX_SIGNATURES>
+<EFX_EXHIBIT_INDEX>
+<A NAME="FIS_EXHIBIT_INDEX"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	EXHIBIT INDEX
+</B>
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE_4"></A>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" ALIGN="CENTER">
+<TR>
+<TD>
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="7%">
+</TD>
+<TD WIDTH="79%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="7%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:8PT">
+<TD VALIGN="BOTTOM" NOWRAP ALIGN="CENTER">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Reference
+<BR>
+	Number per
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:1PT; BORDER-BOTTOM:1.00PT SOLID #000000; WIDTH:49.95PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Item 601 of
+<BR>
+	Regulation SK
+</B>
+</P>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM" NOWRAP ALIGN="CENTER">
+<P STYLE="BORDER-BOTTOM:1.00PT SOLID #000000; WIDTH:78.55PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Description of Exhibits
+</B>
+</P>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM" COLSPAN="2" NOWRAP ALIGN="CENTER">
+<P STYLE="BORDER-BOTTOM:1.00PT SOLID #000000; WIDTH:60.00PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Exhibit
+	Number
+<BR>
+<FONT STYLE="WHITE-SPACE:NOWRAP">
+	in&nbsp;this&nbsp;Form&nbsp;10-K
+</FONT>
+</B>
+</P>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="8">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+<TD HEIGHT="8" COLSPAN="4">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" NOWRAP>
+	(31.1)
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP">
+	Certification by Senior Vice President and Controller of the Registrant pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD NOWRAP VALIGN="TOP">
+	&nbsp;
+</TD>
+<TD NOWRAP VALIGN="TOP" ALIGN="RIGHT">
+	31.1
+</TD>
+<TD NOWRAP VALIGN="TOP">
+	&nbsp;&nbsp;
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="8">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+<TD HEIGHT="8" COLSPAN="4">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" NOWRAP>
+	(31.2)
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP">
+	Annual Compliance Report by Trustee pursuant to 15 U.S.C. Section 7241, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD NOWRAP VALIGN="TOP">
+	&nbsp;
+</TD>
+<TD NOWRAP VALIGN="TOP" ALIGN="RIGHT">
+	31.2
+</TD>
+<TD NOWRAP VALIGN="TOP">
+	&nbsp;&nbsp;
+</TD>
+</TR>
+</TABLE>
+</EFX_UNIDENTIFIED_TABLE>
+</EFX_EXHIBIT_INDEX>
+</EFX_FORM>
+
+<DIV CLASS="eolNewPage"></DIV>
+<A NAME="eolPage7"></A>
+<A NAME="D164795DEX311_HTM"></A>
+<EFX_EXHIBIT_31>
+<A NAME="FIS_EXHIBIT_31"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="RIGHT">
+<B>
+	Exhibit 31.1
+</B>
+</P>
+<EFX_CERTIFICATION>
+<A NAME="FIS_CERTIFICATION"></A>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	CERTIFICATION
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	I, Clifford S. Feibus,
+	certify that:
+</P>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">
+	&nbsp;
+</TD>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+	1.
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	I have reviewed this annual report on Form 10-K, and all reports on Form 8-K containing distribution or servicing reports filed in respect of periods included in the year covered by this annual report, of Lehman ABS
+	Corporation, on behalf of Corporate Backed Trust Certificates, Toy &#147;R&#148; Us Debenture-Backed Series 2001-31 Trust (the &#147;Trust&#148;);
+</TD>
+</TR>
+</TABLE>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">
+	&nbsp;
+</TD>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+	2.
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	Based on my knowledge, and the annual compliance review required under the pooling and servicing, or similar, agreement the information in these reports, taken as a whole, does not contain any untrue statement of a
+	material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading as of the last day of the period covered by this annual report;
+</TD>
+</TR>
+</TABLE>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">
+	&nbsp;
+</TD>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+	3.
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	Based on my knowledge, and the annual compliance review required under the pooling and servicing, or similar, agreement, the distribution or servicing information required to be provided to the Depositor by the Trustee
+	under that agreement for inclusion in these reports is included in these reports; and
+</TD>
+</TR>
+</TABLE>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">
+	&nbsp;
+</TD>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+	4.
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	I am responsible for reviewing the activities performed by the Depositor and the Trustee under the pooling and servicing, or similar, agreement and based upon my knowledge and the annual compliance review required under
+	that agreement, and except as disclosed in the reports, the Depositor and Trustee have each fulfilled its obligations under that agreement.
+</TD>
+</TR>
+</TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	In giving the certifications above, I have reasonably relied on information provided to me by the following unaffiliated party: U.S. Bank Trust National
+	Association, as Trustee.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Date: March 30, 2016
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TR>
+<TD WIDTH="13%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="86%">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="BOTTOM">
+	By:
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:1PT; BORDER-BOTTOM:1PX SOLID #000000; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	/s/
+<I>
+	Clifford S. Feibus
+</I>
+</P>
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="BOTTOM">
+	Name:
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	Clifford S. Feibus
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP">
+	Title:
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	Senior Vice President and Controller
+</TD>
+</TR>
+</TABLE>
+</EFX_CERTIFICATION>
+</EFX_EXHIBIT_31>
+
+<DIV CLASS="eolNewPage"></DIV>
+<A NAME="eolPage8"></A>
+<A NAME="D164795DEX312_HTM"></A>
+<EFX_EXHIBIT_31>
+<A NAME="FIS_EXHIBIT_31_2"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="RIGHT">
+<B>
+	Exhibit 31.2
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	ANNUAL COMPLIANCE REPORT
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	I, David J. Kolibachuk, being an officer of U.S. Bank Trust National Association, the Trustee in respect of the Corporate Backed Trust
+	Certificates, Toys &#147;R&#148; Us Debenture-Backed Series 2001-31 Trust
+<B>
+</B>
+	(the &#147;Trust&#148;), certify that:
+</P>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">
+	&nbsp;
+</TD>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+	1.
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	I have reviewed this annual report on Form 10-K in respect of the Trust and all reports on Form 8-K containing distribution or servicing reports of the Trust filed by Lehman ABS Corporation in respect of periods
+	included in the year covered by this annual report of the Trust;
+</TD>
+</TR>
+</TABLE>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">
+	&nbsp;
+</TD>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+	2.
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	Based on my knowledge, the information in those reports, taken as a whole, does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+	circumstances under which such statements were made, not misleading as of the last day of the period covered by this annual report;
+</TD>
+</TR>
+</TABLE>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">
+	&nbsp;
+</TD>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+	3.
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	Based on my knowledge, the distribution information required to be provided to the Depositor or the certificateholders by the Trustee under the pooling and servicing or similar agreement for inclusion in such
+	distribution reports is included in such reports; and
+</TD>
+</TR>
+</TABLE>
+<P STYLE="FONT-SIZE:6PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">
+	&nbsp;
+</TD>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+	4.
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	I am responsible for reviewing the activities performed by the Trustee under the pooling and servicing or similar agreement and based on my knowledge, except as disclosed in such reports, the Trustee has fulfilled its
+	obligations under that agreement.
+</TD>
+</TR>
+</TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Date: March 30, 2016
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TR>
+<TD WIDTH="100%">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:1PT; BORDER-BOTTOM:1PX SOLID #000000; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	/s/
+<I>
+	David J. Kolibachuk
+</I>
+</P>
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP">
+	David J. Kolibachuk, Vice President
+</TD>
+</TR>
+</TABLE>
+</EFX_EXHIBIT_31>
+
+<!-- FOOTER LOGO -->
+</BODY>
+</HTML>

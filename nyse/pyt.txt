@@ -1,0 +1,4899 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<!-- Created by: EDGAR Online, Inc. EDGAR Filing HTML Converter, Version: 4.62, http://www.edgar-online.com -->
+<TITLE> PPLUS Trust Series GSC-2 (Form: 10-K, Received: 03/27/2014 16:42:14) </TITLE>
+<META NAME="TABLES" CONTENT="FIS_FORM **FIS_PART_I **FIS_BUSINESS **FIS_RISK_FACTORS **FIS_UNRESOLVED_STAFF_COMMENTS **FIS_PROPERTIES **FIS_LEGAL_PROCEEDINGS **FIS_MINE_SAFETY_DISCLOSURE **FIS_PART_II **FIS_MARKET **FIS_FINANCIAL_DATA **FIS_MANAGEMENTS_DISCUSSION **FIS_MARKET_RISK **FIS_FINANCIAL_STATEMENTS **FIS_ACCOUNTING_CHANGES **FIS_CONTROL_AND_PROCEDURES **FIS_OTHER_INFORMATION **FIS_PART_III **FIS_DIRECTORS_AND_OFFICERS **FIS_COMPENSATION **FIS_SECURITY_OWNERS **FIS_OFFICER_TRANSACTIONS **FIS_ACCOUNTANT_FEES **FIS_PART_IV **FIS_EXHIBITS **FIS_SIGNATURES FIS_EXHIBIT_31 FIS_EXHIBIT_99 FIS_EXHIBIT_99_2 FIS_EXHIBIT_99_3 ">
+<META NAME="DETECTED PAGES" CONTENT="29">
+<STYLE TYPE="text/css">
+<!--
+	body          { background-color: white; color: black }
+	.eolNewPage   { page-break-after: always; line-height: 0; height: 0; margin: 0; padding: 0 }
+	.eolLeftAlign { text-align: left; margin-left: auto; margin-right: auto }
+	.eolCenter    { text-align: center }
+	a:link        { color: blue }
+	a:active      { color: red }
+	a:visited     { color: purple }
+	
+	@media print
+	{
+		@page           { margin: 0.25in }
+		body            { font-size: 10pt }
+		a               { text-decoration: none }
+		thead           { display: table-header-group }
+		tfoot           { display: table-footer-group }
+		hr.eolPageBreak { display: none }
+		.eolPrint50pt   { font-size: 5pt }
+		.eolPrint55pt   { font-size: 5.5pt }
+		.eolPrint60pt   { font-size: 6pt }
+		.eolPrint65pt   { font-size: 6.5pt }
+		.eolPrint70pt   { font-size: 7pt }
+		.eolPrint75pt   { font-size: 7.5pt }
+		.eolPrint80pt   { font-size: 8pt }
+		.eolPrint85pt   { font-size: 8.5pt }
+		.eolPrint90pt   { font-size: 9pt }
+		.eolPrint95pt   { font-size: 9.5pt }
+	}
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<A NAME="eolPage1"></A>
+<A NAME="FIS_TOP_OF_DOCUMENT"></A>
+
+<A NAME="E57152-10K_HTM"></A>
+<EFX_FORM>
+<A NAME="FIS_FORM"></A>
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV STYLE="WIDTH: 100%; BORDER-BOTTOM: 2PT SOLID BLACK; FONT-SIZE: 1PT">
+	&nbsp;
+</DIV>
+<DIV STYLE="WIDTH: 100%; BORDER-BOTTOM: 1PT SOLID BLACK; FONT-SIZE: 1PT">
+	&nbsp;
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 14PT; MARGIN-TOP: 12PT">
+<B>
+	UNITED STATES
+</B>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 14PT; MARGIN-TOP: 0PT">
+<B>
+	SECURITIES AND EXCHANGE COMMISSION
+</B>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 12PT">
+<B>
+	WASHINGTON, D.C. 20549
+</B>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 12PT">
+<DIV ALIGN="CENTER">
+<DIV STYLE="FONT-SIZE: 3PT; MARGIN-TOP: 16PT; WIDTH: 26%; BORDER-TOP: 1PX SOLID #000000">
+	&nbsp;
+</DIV>
+</DIV>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 18PT; MARGIN-TOP: 12PT">
+<B>
+	FORM 10-K
+</B>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 12PT; MARGIN-TOP: 12PT">
+<B>
+	ANNUAL REPORT
+</B>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 12PT; MARGIN-TOP: 12PT">
+<B>
+	Pursuant to Section&nbsp;13 or 15(d) of
+<BR>
+	the Securities Exchange Act of 1934
+</B>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 12PT; MARGIN-TOP: 12PT">
+<DIV ALIGN="CENTER">
+<DIV STYLE="FONT-SIZE: 3PT; MARGIN-TOP: 16PT; WIDTH: 26%; BORDER-TOP: 1PX SOLID #000000">
+	&nbsp;
+</DIV>
+</DIV>
+</DIV>
+<DIV ALIGN="CENTER">
+<TABLE STYLE="FONT-SIZE: 10PT" CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<!-- BEGIN TABLE HEAD -->
+<TR VALIGN="BOTTOM">
+<TD WIDTH="47%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="47%">
+	&nbsp;
+</TD>
+</TR>
+<!-- END TABLE HEAD -->
+<!-- BEGIN TABLE BODY -->
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<B>
+	For the fiscal year ended:
+</B>
+</TD>
+<TD>
+	&nbsp;
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<B>
+	Commission file number:
+</B>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<B>
+	December&nbsp;31, 2013
+</B>
+</TD>
+<TD>
+	&nbsp;
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<B>
+	001-32247
+</B>
+</TD>
+</TR>
+<!-- END TABLE BODY -->
+</TABLE>
+</DIV>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE"></A>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 24PT; MARGIN-TOP: 12PT">
+<B>
+	MERRILL LYNCH DEPOSITOR, INC.
+</B>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+	(ON BEHALF OF PPLUS TRUST SERIES GSC-2)
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+	(Exact name of registrant as specified in its charter)
+</DIV>
+<DIV ALIGN="CENTER">
+<TABLE STYLE="FONT-SIZE: 10PT" CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<!-- BEGIN TABLE HEAD -->
+<TR VALIGN="BOTTOM">
+<TD WIDTH="47%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="47%">
+	&nbsp;
+</TD>
+</TR>
+<!-- END TABLE HEAD -->
+<!-- BEGIN TABLE BODY -->
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+	DELAWARE
+<BR>
+	(State or other
+<BR>
+	jurisdiction of
+<BR>
+	incorporation)
+</TD>
+<TD>
+	&nbsp;
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+	13-3891329
+<BR>
+	(I. R. S. Employer
+<BR>
+	Identification No.)
+</TD>
+</TR>
+<!-- END TABLE BODY -->
+</TABLE>
+</DIV>
+<DIV ALIGN="CENTER">
+<TABLE STYLE="FONT-SIZE: 10PT" CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<!-- BEGIN TABLE HEAD -->
+<TR VALIGN="BOTTOM">
+<TD WIDTH="47%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="47%">
+	&nbsp;
+</TD>
+</TR>
+<!-- END TABLE HEAD -->
+<!-- BEGIN TABLE BODY -->
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT STYLE="FONT-FAMILY: TIMES NEW ROMAN, TIMES, SERIF">
+	ONE BRYANT PARK, 4th FL
+<BR>
+</FONT>
+	STRUCTURED CREDIT TRADING
+<BR>
+	NEW YORK, NEW YORK
+<BR>
+	(Address of principal
+<BR>
+	executive offices)
+</TD>
+<TD>
+	&nbsp;
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+	10036
+<BR>
+	(Zip Code)
+</TD>
+</TR>
+<!-- END TABLE BODY -->
+</TABLE>
+</DIV>
+</EFX_UNIDENTIFIED_TABLE>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+<DIV ALIGN="CENTER">
+<DIV STYLE="FONT-SIZE: 3PT; MARGIN-TOP: 16PT; WIDTH: 26%; BORDER-TOP: 1PX SOLID #000000">
+	&nbsp;
+</DIV>
+</DIV>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	Registrant&#146;s telephone number, including area code: (646)&nbsp;855-6745
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Securities registered pursuant to Section 12(b) of the Act:
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	PPLUS Trust Certificates Series&nbsp;GSC-2 listed on The New York Stock Exchange.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Securities registered pursuant to Section 12(g) of the Act:
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Not Applicable.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Indicate by check mark if the registrant is a well-known seasoned issuer, as
+	defined in Rule&nbsp;405 of the Securities Act.
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	Yes&nbsp;
+<FONT FACE="WINGDINGS">
+	&#111;
+</FONT>
+	&nbsp;No&nbsp;
+<FONT FACE="WINGDINGS">
+	&#254;
+</FONT>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Indicate by check mark if the registrant is not required to file reports
+	pursuant to Section&nbsp;13 or Section 15(d) of the Act.
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	Yes&nbsp;
+<FONT FACE="WINGDINGS">
+	&#111;
+</FONT>
+	&nbsp;No&nbsp;
+<FONT FACE="WINGDINGS">
+	&#254;
+</FONT>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Indicate by check mark whether the registrant (1)&nbsp;has filed all reports
+	required to be filed by Section&nbsp;13 or 15(d) of the Securities Exchange Act of
+	1934 during the preceding 12&nbsp;months (or for such shorter period that the
+	registrant was required to file such reports), and (2)&nbsp;has been subject to such
+	filing requirements for the past 90&nbsp;days.
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	Yes&nbsp;
+<FONT FACE="WINGDINGS">
+	&#254;
+</FONT>
+	&nbsp;No&nbsp;
+<FONT FACE="WINGDINGS">
+	&#111;
+</FONT>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+<P>
+<FONT COLOR="BLACK" FACE="TIMES NEW ROMAN, TIMES, SERIF">
+	Indicate by check
+	mark whether the registrant has submitted electronically and posted on its
+	corporate Web site, if any, every Interactive Data File required to be submitted
+	and posted pursuant to Rule 405 of Regulation S-T during the preceding 12
+	months (or for such shorter period that the registrant was required to submit
+	and post such files).
+</FONT>
+</P>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	Yes&nbsp;
+<FONT FACE="WINGDINGS">
+	&#111;
+</FONT>
+	&nbsp;No&nbsp;
+<FONT FACE="WINGDINGS">
+	&#111;
+</FONT>
+</DIV>
+<P>
+	Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405
+	of Regulation&nbsp;S-K is not contained herein, and will not be contained,
+	to the best of registrant&#146;s knowledge, in definitive proxy or information
+	statements incorporated by reference in Part&nbsp;III of this Form 10-K
+	or any amendment to this Form 10-K.&nbsp;
+<FONT FACE="WINGDINGS">
+	&#111;
+</FONT>
+</P>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Indicate by check
+	mark whether the registrant is a large accelerated filer, an accelerated
+	filer, a non-accelerated filer or a smaller reporting company. See definitions
+	of &#147;large accelerated filer,&#148; &#147;accelerated filer&#148; and
+	&#147;smaller reporting company&#148; in Rule&nbsp;12b-2 of the Exchange
+	Act.
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	Large
+	accelerated filer
+<FONT FACE="WINGDINGS">
+	&#111;
+</FONT>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accelerated filer
+<FONT FACE="WINGDINGS">
+	&#111;
+</FONT>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non-accelerated filer
+<FONT FACE="WINGDINGS">
+	&#254;
+<FONT FACE="TIMES NEW ROMAN, TIMES, SERIF">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smaller reporting filer
+<FONT FACE="WINGDINGS">
+	&#111;
+</FONT>
+</FONT>
+</FONT>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+<BR>
+	Indicate by check mark whether the registrant is a shell company (as defined in
+	Rule&nbsp;12b-2 of the Exchange Act).
+</DIV>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	Yes&nbsp;
+<FONT FACE="WINGDINGS">
+	&#111;
+</FONT>
+	&nbsp;No&nbsp;
+<FONT FACE="WINGDINGS">
+	&#254;
+</FONT>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	State the aggregate market value of the voting and non-voting common equity
+	held by non-affiliates computed by reference to the price at which the common
+	equity was last sold, or the average bid and asked price of such common equity,
+	as of the last business day of the registrant&#146;s most recently completed second
+	fiscal quarter.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Not Applicable.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Indicate the number of shares outstanding for each of the registrant&#146;s classes
+	of common stock, as of the latest practicable date.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Not Applicable.
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+<B>
+	DOCUMENTS INCORPORATED BY REFERENCE
+</B>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	None.
+</DIV>
+<DIV STYLE="WIDTH: 100%; BORDER-BOTTOM: 1PT SOLID BLACK; MARGIN-TOP: 10PT; FONT-SIZE: 1PT">
+	&nbsp;
+</DIV>
+<DIV STYLE="WIDTH: 100%; BORDER-BOTTOM: 2PT SOLID BLACK; FONT-SIZE: 1PT">
+	&nbsp;
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	&nbsp;
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage2"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 1; PAGE: 1" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<!-- TOC -->
+<DIV ALIGN="CENTER">
+<U>
+<B>
+	TABLE OF CONTENTS
+</B>
+</U>
+</DIV>
+<P>
+<CENTER>
+<TABLE BORDER="0" WIDTH="90%" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE000">
+	PART I
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE001">
+	ITEM 1. BUSINESS
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE002">
+	ITEM 1A. RISK FACTORS
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE003">
+	ITEM 1B. UNRESOLVED STAFF COMMENTS
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE004">
+	ITEM 2. PROPERTIES
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE005">
+	ITEM 3. LEGAL PROCEEDINGS
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE006">
+	ITEM 4.
+<FONT FACE="TIMES NEW ROMAN, TIMES, SERIF">
+	MINE SAFETY DISCLOSURES
+</FONT>
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE007">
+	PART II
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE008">
+	ITEM 5. MARKET FOR REGISTRANT&#146;S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE009">
+	ITEM 6. SELECTED FINANCIAL DATA
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE010">
+	ITEM 7. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE011">
+	ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE012">
+	ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE013">
+	ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE014">
+	ITEM 9A. CONTROLS AND PROCEDURES
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE015">
+	ITEM 9B. OTHER INFORMATION
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE016">
+	PART III
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE017">
+	ITEM 10. DIRECTORS, EXECUTIVE OFFICERS
+</A>
+<A HREF="#E57152-10K_HTM_PAGE017">
+	AND CORPORATE GOVERNANCE
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE018">
+	ITEM 11. EXECUTIVE COMPENSATION
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE019">
+	ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE020">
+	ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE021">
+	ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE022">
+	PART IV
+</A>
+</TD>
+</TR>
+<TR>
+<TD>
+</TD>
+<TD COLSPAN="8">
+<A HREF="#E57152-10K_HTM_PAGE023">
+	ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+</A>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="9">
+<A HREF="#E57152-10K_HTM_PAGE024">
+	SIGNATURES
+</A>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="9">
+<A HREF="#E57152EX31_1_HTM">
+	EX-31.1: CERTIFICATION
+</A>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="9">
+<A HREF="#E57152EX99_1_HTM">
+	EX-99.1: TRUSTEE'S ANNUAL COMPLIANCE CERTIFICATE
+</A>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="9">
+<A HREF="#E57152EX99_2_HTM">
+	EX-99.2: REPORT OF
+<FONT FACE="TIMES NEW ROMAN, TIMES, SERIF">
+	PRICEWATERHOUSECOOPERS
+	LLP
+</FONT>
+</A>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="9">
+<A HREF="#E57152EX99_3_HTM">
+	EX-99.3: REPORT OF KPMG LLP
+</A>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+</P>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage3"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- LINK2 "PART I" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE000">
+</A>
+</DIV>
+<EFX_PART_I>
+<A NAME="FIS_PART_I"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	PART I
+</DIV>
+<!-- LINK2 "ITEM 1. BUSINESS" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE001">
+</A>
+</DIV>
+<EFX_BUSINESS>
+<A NAME="FIS_BUSINESS"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	ITEM 1. BUSINESS
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	For information with respect to the underlying
+	securities held by PPLUS Trust Series&nbsp;GSC-2, please
+	refer to The Goldman Sachs Group, Inc.&#146;s (Commission
+	file number 001-14965) periodic reports, including
+	annual reports on Form 10-K, quarterly reports on Form
+	10-Q and current reports on Form 8-K, and other
+	information on file with the Securities and Exchange
+	Commission (the &#147;SEC&#148;). You can read and copy these
+	reports and other information at the public reference
+	facilities maintained by the SEC at Room&nbsp;1580, 100 F
+	Street, N.E., Washington, D.C. 20549. You may obtain
+	copies of this material for a fee by writing to the
+	SEC&#146;s Public Reference Section of the SEC at 100 F
+	Street, N.E., Washington, D.C. 20549. You may obtain
+	information about the operation of the Public
+	Reference Room by calling the SEC at 1-800-SEC-0330.
+	You can also access some of this information
+	electronically by means of the SEC&#146;s website on the
+	Internet at http://www.sec.gov, which contains
+	reports, proxy and information statements and other
+	information that the underlying securities guarantor
+	and the underlying securities issuer have filed
+	electronically with the SEC.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	Although we have no reason to believe the information
+	concerning the underlying securities and the junior
+	subordinated debentures or the underlying securities
+	guarantor and the underlying securities issuer
+	contained in the underlying securities guarantor&#146;s
+	Exchange Act reports is not reliable, neither the
+	depositor nor the trustee participated in the
+	preparation of such documents or made any due
+	diligence inquiry with respect to the information
+	provided therein. No investigation with respect to the
+	underlying securities guarantor and underlying
+	securities issuer (including, without limitation, no
+	investigation as to their respective financial
+	condition or creditworthiness) or of the underlying
+	securities and the junior subordinated debentures has
+	been made. You should obtain and evaluate the same
+	information concerning the underlying securities
+	issuer and the underlying securities guarantor as you
+	would obtain and evaluate if your investment were
+	directly in the underlying securities or in other
+	securities issued by the underlying securities issuer
+	or the underlying securities guarantor. There can be
+	no assurance that events affecting the underlying
+	securities and the junior subordinated debentures or
+	the underlying securities issuer and underlying
+	securities guarantor have not occurred or have not yet
+	been publicly disclosed which would affect the
+	accuracy or completeness of the publicly available
+	documents described above.
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	2
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+</EFX_BUSINESS>
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage4"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 2; PAGE: 2" -->
+<EFX_RISK_FACTORS>
+<A NAME="FIS_RISK_FACTORS"></A>
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<!-- LINK2 "ITEM 1A. RISK FACTORS" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE002">
+</A>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 1A. RISK FACTORS
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	Your investment in the trust certificates will involve
+	certain risks. You should carefully consider the
+	following discussion of risks, and the other
+	information included or incorporated by reference in
+	the applicable prospectus supplement and the
+	accompanying prospectus. You should also carefully
+	consider any risk factors and other information that
+	the underlying securities guarantor may file in its
+	Exchange Act reports as referenced in Item&nbsp;1 above.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	IF THE UNDERLYING SECURITIES ARE REDEEMED PRIOR TO THE
+	MATURITY DATE OF THE UNDERLYING SECURITIES OR IF ANY
+	CALL WARRANTS ARE EXERCISED PRIOR TO THE STATED
+	MATURITY DATE, YOU MAY NOT BE ABLE TO REINVEST YOUR
+	REDEMPTION OR CALL PROCEEDS AT A YIELD COMPARABLE TO
+	THE YIELD YOU WOULD HAVE RECEIVED ON YOUR TRUST
+	CERTIFICATES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	The yield you will realize on your trust certificates
+	depends upon several factors, including:
+</DIV>
+<DIV STYLE="MARGIN-TOP: 6PT">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="FONT-SIZE: 10PT">
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	whether an early termination payment is payable by
+	the trust to the swap counterparty,
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	the purchase price of trust certificates,
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	when you acquire your trust certificates,
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	whether the underlying securities issuer exercises
+	its option to redeem the underlying securities,
+	and
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	whether the call warrant holders exercise their
+	optional rights to purchase outstanding trust
+	certificates.
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	The underlying securities issuer has the right to
+	redeem the underlying securities in whole or in part
+	at its option or in part if it becomes obligated to
+	pay additional amounts. Because the underlying
+	securities issuer has the right to redeem the
+	underlying securities early, we cannot assure you that
+	the trust will be able to hold the underlying
+	securities until the maturity date of the underlying
+	securities.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	Although the call warrant holders are not obligated to
+	exercise the call warrants, the yield you will realize
+	on your trust certificates depends on whether the call
+	warrant holders exercise their call warrants to
+	purchase the trust certificates.
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	3
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage5"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 3; PAGE: 3" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	Prevailing interest rates at the time of an early
+	redemption or a call exercise may be lower than the
+	yield on your trust certificates. Therefore, you may
+	be unable to realize a comparable yield upon
+	reinvesting the funds you receive from an early
+	redemption or exercise of any call warrants. In
+	addition, if the prevailing market value of the trust
+	certificates exceeds the redemption price or call
+	exercise price paid to you upon redemption of the
+	underlying securities or the exercise of a call, you
+	will not be able to realize such excess.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	YOU MAY SUFFER LOSSES AS A RESULT OF ANY SWAP EARLY
+	TERMINATION PAYMENT UPON THE LIQUIDATION OF THE
+	UNDERLYING SECURITIES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	In the event the underlying securities are liquidated as a
+	result of a default by the underlying securities
+	issuer on its obligations or the underlying securities
+	issuer ceases to file Exchange Act reports, or upon an
+	underlying securities bankruptcy event, trust swap
+	payment default or a trust regulatory event, you will
+	not receive any distributions payable to you until
+	after the payment of the early termination payment (if
+	any is then payable) to the swap counterparty. Unless
+	the proceeds received from the liquidation of the
+	underlying securities are sufficient to pay any early
+	termination payment plus the certificate principal
+	balance and accrued and unpaid interest then due on
+	the trust certificates, you will suffer a loss as a
+	result of such early termination payment and such
+	liquidation. This loss could be quite substantial in
+	relation to the total value of your trust
+	certificates.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	YOU MAY NOT BE PAID IF THE ASSETS OF THE TRUST ARE
+	INSUFFICIENT
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	Currently, the trust has no significant assets other
+	than the underlying securities, the underlying
+	securities guarantee and the swap agreement. If the
+	underlying securities or payments made under the
+	underlying securities guarantee and the swap agreement
+	are insufficient to make payments or distributions on
+	the trust certificates, no other assets will be
+	available for payment of the deficiency.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	The underlying securities issuer conducts its business
+	through subsidiaries. Accordingly, its ability to meet
+	its obligations under the underlying securities is
+	dependent on the earnings and cash flows of those
+	subsidiaries and the ability of those subsidiaries to
+	pay dividends or to advance or repay funds to the
+	underlying securities issuer. In addition, the rights
+	that the underlying securities issuer and its
+	creditors would have to participate in the assets of
+	any such subsidiary upon the subsidiary&#146;s liquidation
+	or recapitalization will be subject to the prior
+	claims of the subsidiary&#146;s creditors. Certain
+	subsidiaries of the underlying securities issuer have
+	incurred substantial amounts of debt in the expansion
+	of their businesses, and the underlying securities
+	issuer anticipates that certain of its subsidiaries
+	will do so in the future.
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	4
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage6"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 4; PAGE: 4" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	YOU MAY NOT RECOVER THE WHOLE OF THE PRESENT VALUE OR
+	STATED AMOUNT (IF APPLICABLE) OF YOUR TRUST
+	CERTIFICATES IF THE TRUST DISPOSES OF THE UNDERLYING
+	SECURITIES ON A DEFAULT BY THE UNDERLYING SECURITIES
+	ISSUER OR IN THE EVENT THE UNDERLYING SECURITIES
+	GUARANTOR CEASES FILING EXCHANGE ACT REPORTS
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	If the underlying securities issuer defaults on its
+	obligations under the underlying securities or the
+	underlying securities guarantor ceases to file
+	Exchange Act reports, then the trust will either
+	distribute the underlying securities to the trust
+	certificateholders or dispose of them and distribute
+	the proceeds to the trust certificateholders. Your
+	recovery in either of those events may be limited by
+	three factors:
+</DIV>
+<DIV STYLE="MARGIN-TOP: 6PT">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="FONT-SIZE: 10PT">
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	if a default occurs, the market value of the
+	underlying securities may be adversely affected
+	and the proceeds of their disposition may be lower
+	than the aggregate present value or stated amount
+	(if applicable) of the trust certificates;
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	in either event, any distribution of funds or
+	underlying securities by the trust to the trust
+	certificateholders will be done in accordance with
+	the allocation ratio as described in the
+	applicable prospectus supplement relating to the
+	trust certificates. The funds or aggregate
+	principal amount of underlying securities you
+	receive on that distribution may be less than the
+	present value or stated amount (if applicable) of
+	your trust certificates; and
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	any such distribution of funds will be subject to
+	the payment by the trust to the swap counterparty
+	of any early termination payment.
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	THE TRUSTEE WILL NOT MANAGE THE UNDERLYING SECURITIES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	Except as described below, the trust will not dispose
+	of any underlying securities, even if an event occurs
+	that adversely affects the value of the underlying
+	securities or that adversely affects the underlying
+	securities issuer or the underlying securities
+	guarantor. As provided in the applicable trust
+	agreement, the trust will dispose of the underlying
+	securities only if:
+</DIV>
+<DIV STYLE="MARGIN-TOP: 6PT">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="FONT-SIZE: 10PT">
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	there is a payment default on any underlying
+	securities,
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	there is another type of default that accelerates
+	the maturity of the underlying securities, or
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	the underlying securities guarantor ceases to file
+	Exchange Act reports.
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	Under the first circumstance listed above, the trustee
+	must sell the underlying securities on behalf of the
+	trust, even if adverse market conditions exist. The
+	trustee has no discretion to do otherwise. If adverse
+	market conditions do exist at the time of the
+	trustee&#146;s sale of the underlying securities, you may
+	incur greater losses than if the trust continued to
+	hold the underlying securities.
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	5
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage7"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 5; PAGE: 5" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	THE TRUST CERTIFICATES ARE SUBJECT TO THE
+	CREDITWORTHINESS OF THE UNDERLYING SECURITIES ISSUER
+	AND THE UNDERLYING SECURITIES GUARANTOR
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	The trust certificates represent interests in
+	obligations of the underlying securities issuer and
+	the underlying securities guarantor. In particular,
+	the trust certificates will be subject to all the
+	risks associated with directly investing in both
+	the underlying securities issuer&#146;s and the underlying
+	securities guarantor&#146;s unsecured subordinated debt
+	obligations. None of the underlying indenture, the
+	underlying securities or the underlying securities
+	guarantee places a limitation on the amount of
+	indebtedness that may be incurred by the underlying
+	securities issuer or underlying securities guarantor.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	THE TRUST&#146;S RIGHT TO DIRECT ACTION AGAINST THE
+	UNDERLYING SECURITIES GUARANTOR TO ENFORCE THE RIGHTS
+	OF THE UNDERLYING SECURITIES HOLDERS IS LIMITED
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	If a debenture event of default occurs and is
+	continuing, then the holders of the underlying
+	securities would rely on, and in certain circumstances
+	could cause, the trustee of the underlying securities
+	issuer to enforce its rights as a holder of the
+	underlying securities and the underlying securities
+	guarantee on behalf of the underlying securities
+	issuer against the underlying securities guarantor. In
+	addition, any registered holder of underlying
+	securities may institute a legal proceeding directly
+	against the underlying securities guarantor to enforce
+	its rights against the underlying securities guarantor
+	without first instituting any legal proceeding against
+	the underlying securities trustee or any other person
+	or entity.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	THE UNDERLYING SECURITIES GUARANTOR HAS THE ABILITY TO
+	DEFER INTEREST PAYMENTS ON THE UNDERLYING SECURITIES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	The underlying securities guarantor can, on one or
+	more occasions, defer interest payments on the
+	underlying securities for up to 10 consecutive
+	semiannual interest periods, but not beyond the
+	maturity date of the underlying securities. If the
+	underlying securities guarantor defers interest
+	payments on the underlying securities, the underlying
+	securities issuer will defer distributions on the
+	underlying securities. If the underlying securities
+	issuer defers distributions on the underlying
+	securities, the trust will defer distributions on the
+	trust certificates during any deferral period. No
+	additional amounts will accrue on the trust
+	certificates or be owed to trust certificateholders as
+	a result of any delay, but any additional amounts owed
+	and paid by the underlying securities issuer as a
+	result of the delay will be paid to the trust
+	certificateholders. Prior to the termination of any
+	deferral period, the underlying securities guarantor
+	may further extend the deferment, but the total of all
+	deferral periods must not exceed 10 consecutive
+	semiannual interest periods or extend beyond the
+	maturity date. Upon the termination of any deferral
+	period and the payment of all amounts then due, the
+	underlying securities guarantor may commence a new
+	deferral period, subject to the above requirements.
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	6
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage8"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 6; PAGE: 6" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	Because the underlying securities guarantor has the
+	right to defer interest payments, the market price of
+	the underlying securities (which represent an
+	undivided beneficial interest in the underlying
+	securities) may be more volatile than other similar
+	securities where the issuer does not have the right to
+	defer interest payments.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	IF THE UNDERLYING SECURITIES GUARANTOR EXERCISES ITS
+	OPTION TO DEFER INTEREST PAYMENTS ON THE UNDERLYING
+	SECURITIES, THE TRUST CERTIFICATEHOLDERS MAY FACE
+	ADVERSE TAX CONSEQUENCES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	Should the underlying securities guarantor exercise
+	its right to defer any payment of interest on the
+	underlying securities, each underlying securities
+	holder will be required to accrue interest income (as
+	original issue discount) in respect of the deferred
+	stated interest allocable to its share of the
+	underlying securities for United States federal income
+	tax purposes. As a result, a trust certificateholder,
+	as a beneficial owner of the underlying securities,
+	would have to include this amount in gross income for
+	United States federal income tax purposes prior to the
+	receipt of any cash distributions. In addition, the
+	trust certificateholder would not receive cash from
+	the underlying security issuer related to this income
+	if the trust certificateholder disposes of the trust
+	certificates prior to the record date on which
+	distributions of these amounts are made. To the extent
+	the selling price is less than the trust
+	certificateholder&#146;s adjusted tax basis (which will
+	include, in the form of original issue discount all
+	accrued but unpaid interest), the trust
+	certificateholder will recognize a capital loss.
+	Subject to limited exceptions, capital losses cannot
+	be applied to offset ordinary income for United States
+	federal income tax purposes.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	THE PAYMENTS OWED TO THE TRUST CERTIFICATEHOLDERS ARE
+	UNSECURED OBLIGATIONS
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	In a liquidation, holders of the underlying
+	securities, including the trust, will be paid only
+	after holders of secured obligations of the underlying
+	securities issuer. According to the underlying
+	securities prospectus, the underlying securities are
+	unsecured and rank equally with all other unsecured
+	and unsubordinated indebtedness of the underlying
+	securities issuer.
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	7
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage9"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 7; PAGE: 7" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	IF THE SWAP AGREEMENT IS TERMINATED AS A RESULT OF A
+	SWAP AGREEMENT TERMINATION EVENT WHICH IS NOT A TRUST
+	TERMINATION EVENT, THEN THE YIELD ON THE TRUST
+	CERTIFICATES WILL BE CONVERTED FROM A FLOATING RATE TO
+	A FIXED RATE AND DISTRIBUTIONS TO YOU WILL BE MADE
+	SEMIANNUALLY INSTEAD OF QUARTERLY
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	The ability of the trust to make quarterly payments on
+	interest rate distributions on the trust certificates
+	will be dependent on the performance by the swap
+	counterparty of its payment obligations under the swap
+	agreement. If the swap agreement were to be terminated
+	as a result of a swap agreement termination event that
+	is not also a trust termination event, then (i)&nbsp;the
+	trust will remain in existence without any rights or
+	obligations under the swap agreement and (ii)&nbsp;you will
+	receive a pro rata share of the fixed rate interest
+	payments received by the trust in respect of the
+	underlying securities on a semiannual basis, instead
+	of a pro rata share of the floating rate payments
+	under the swap agreement received by the trust on a
+	quarterly basis.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	YOU WILL NOT RECEIVE TIMELY DISTRIBUTION ON THE TRUST
+	CERTIFICATES IF THE TRUST DOES NOT RECEIVE TIMELY
+	DISTRIBUTION ON THE UNDERLYING SECURITIES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	The underlying issuer may defer the payment of interest
+	on the junior subordinated debentures at any time and
+	in each case for up to 10 semiannual consecutive
+	interest periods, provided that (i)&nbsp;no extension period
+	may extend beyond the stated maturity date of the
+	junior subordinated debentures; and (ii)&nbsp;The underlying
+	issuer is not in default under the subordinated debt
+	indenture governing the junior subordinated debentures.
+	If there is a deferral, the underlying securities
+	issuer also will defer distributions on the underlying
+	securities and the swap counterparty will not be
+	obligated to make any payments to the trust pursuant to
+	the swap agreement. Before any extension period ends,
+	The underlying issuer may elect to extend the period
+	further. At the end of any extension period and the
+	payment of all interest then accrued and unpaid, The
+	underlying issuer may elect to begin a new extension
+	period. There is no limitation on the number of
+	extension periods. If the underlying securities issuer
+	does not pay amounts due under the underlying
+	securities, as a result of a deferral, the swap
+	counterparty is not obligated to make payments to the
+	trust, and the trust will not make any corresponding
+	payments on the trust certificates.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	Should The underlying issuer elected to exercise its
+	right to defer payments of interest on the junior
+	subordinated debentures in the future, the market
+	price of the underlying securities is likely to be
+	adversely affected. In addition, merely as a result of
+	the existence of The underlying issuer&#146;s right to
+	defer payments of interest on the junior subordinated
+	debentures, the market price of the underlying
+	securities may be more volatile than the market prices
+	of other securities that are not subject to such
+	deferrals.
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	8
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage10"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 8; PAGE: 8" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	DISTRIBUTIONS AND OTHER PAYMENTS WITH RESPECT TO YOUR
+	TRUST CERTIFICATES AND YOUR EXPECTED INVESTMENT YIELD
+	MAY BE AFFECTED BY FACTORS SUCH AS THE PERFORMANCE OF
+	THE TRUST ASSETS, THE REDEMPTION OF THE UNDERLYING
+	SECURITIES AND THE EARLY TERMINATION OF THE SWAP
+	AGREEMENT
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	A number of factors may affect the timing of
+	distributions with respect to your trust certificates
+	and the yield that you realize on your trust
+	certificates, including:
+</DIV>
+<DIV STYLE="MARGIN-TOP: 6PT">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="FONT-SIZE: 10PT">
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	the purchase price you pay for your trust
+	certificates;
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	the interest rate on the trust certificates, which
+	will be greater than or equal to 3.00% and will
+	not exceed 8.00%;
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	the performance of the underlying securities;
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	whether the underlying securities issuer redeems,
+	repurchases or repays the underlying securities
+	before their maturity;
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	whether the underlying security guarantor elects
+	to defer interest payments on the underlying
+	securities;
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	whether the underlying securities issuer defaults
+	under the underlying securities;
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	the possibility that if there is a swap
+	termination event that is not a trust termination
+	event a fixed rate of 6.345% per annum will be
+	payable on the trust certificates, instead of the
+	floating rate distribution amount payable under
+	the swap agreement;
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	the possibility that the swap agreement may be
+	terminated early in certain circumstances,
+	resulting in the termination of the trust prior to
+	its scheduled termination date; and
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="2%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+<B>
+	&#149;
+</B>
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	whether the holder of the call options exercises
+	its call options on your trust certificates.
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	We can not predict whether or when the call options
+	will be exercised, whether the underlying securities
+	will be redeemed, repaid, repurchased or accelerated
+	or whether interest on the underlying securities will
+	be deferred. If the trust certificates are prepaid or
+	if the holder of the call options exercises its call
+	options prior to the final distribution date, then the
+	principal of your trust certificates or the call price
+	will be paid to the extent funds are received on the
+	underlying securities or the holder of the call
+	options pays the call price and your investment in the
+	trust certificates will have a shorter average
+	maturity.
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	9
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage11"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 9; PAGE: 9" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	UPON A SWAP TERMINATION EVENT WHEREBY THE SWAP
+	COUNTERPARTY IS THE DEFAULTING PARTY OR AFFECTED
+	PARTY, YOU ARE NOT LIKELY TO RECEIVE FROM THE SWAP
+	COUNTERPARTY ANY INTEREST THAT HAS ACCRUED
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	Upon a swap termination event that is not a trust
+	termination event whereby the swap counterparty is the
+	defaulting party (especially upon the bankruptcy,
+	insolvency or reorganization of the swap counterparty),
+	it is unlikely that you will receive from the swap
+	counterparty any interest that has accrued since the
+	last quarterly payment of the interest distribution
+	amount.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	IF THE TRUST CERTIFICATES ARE PREPAID WHEN PREVAILING
+	MARKET INTEREST RATES FOR SECURITIES OF A COMPARABLE
+	CREDIT RATING ARE LOWER THAN THE YIELD ON YOUR TRUST
+	CERTIFICATES, YOU MAY BE UNABLE TO REALIZE A
+	COMPARABLE YIELD WHEN YOU REINVEST THE FUNDS THAT YOU
+	RECEIVE FROM THE PREPAYMENT OF YOUR TRUST
+	CERTIFICATES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	If the trust certificates are prepaid when prevailing
+	market interest rates for securities of a comparable
+	credit rating are lower than the yield on your trust
+	certificates, you may be unable to realize a
+	comparable yield when you reinvest the funds that you
+	receive from the prepayment of your trust
+	certificates. The interest rate cap on the trust
+	certificates may limit your interest payments and may
+	negatively impact the market value of your trust
+	certificates.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	The interest paid on the trust certificates is based
+	on a floating rate that will not exceed 8.00%. If
+	interest rates exceed 8.00%, your trust certificates
+	will not receive interest based on the higher interest
+	rate but rather will be capped at 8.00%. Therefore,
+	the market value of your trust certificates will also
+	be negatively affected as interest rates rise.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	THE INTEREST RATE CAP ON THE TRUST CERTIFICATES MAY
+	NEGATIVELY IMPACT THE MARKET VALUE OF YOUR TRUST
+	CERTIFICATES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	The interest paid on the trust certificates is based
+	on a floating rate that will not exceed 8.00%.
+	Therefore, the market value of your trust certificates
+	may be negatively affected as interest rates rise.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	THE RATINGS OF THE TRUST CERTIFICATES MAY CHANGE
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	At the time of issuance, S&#038;P assigned ratings to the
+	trust certificates equivalent to the ratings of the
+	underlying securities, as of the date of the
+	applicable prospectus supplement.
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	10
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage12"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 10; PAGE: 10" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	Any rating issued with respect to the trust
+	certificates is not a recommendation to purchase, sell
+	or hold a security. Ratings do not comment on the
+	market price of the trust certificates or their
+	suitability for a particular investor. We cannot
+	assure you that the ratings will remain for any given
+	period of time or that a ratings agency would not
+	revise or withdraw entirely the ratings if, in its
+	judgment, circumstances (including, without
+	limitation, the rating of the underlying securities)
+	merit. A revision or withdrawal of a rating may
+	adversely affect the market price of the trust
+	certificates.
+</DIV>
+</EFX_RISK_FACTORS>
+<!-- LINK2 "ITEM 1B. UNRESOLVED STAFF COMMENTS" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE003">
+</A>
+</DIV>
+<EFX_UNRESOLVED_STAFF_COMMENTS>
+<A NAME="FIS_UNRESOLVED_STAFF_COMMENTS"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 1B. UNRESOLVED STAFF COMMENTS
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable.
+</DIV>
+</EFX_UNRESOLVED_STAFF_COMMENTS>
+<!-- LINK2 "ITEM 2. PROPERTIES" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE004">
+</A>
+</DIV>
+<EFX_PROPERTIES>
+<A NAME="FIS_PROPERTIES"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 2. PROPERTIES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.
+</DIV>
+</EFX_PROPERTIES>
+<!-- LINK2 "ITEM 3. LEGAL PROCEEDINGS" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE005">
+</A>
+</DIV>
+<EFX_LEGAL_PROCEEDINGS>
+<A NAME="FIS_LEGAL_PROCEEDINGS"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 3. LEGAL PROCEEDINGS
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.
+</DIV>
+</EFX_LEGAL_PROCEEDINGS>
+<!-- LINK2 "ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE006">
+</A>
+</DIV>
+<EFX_MINE_SAFETY_DISCLOSURE>
+<A NAME="FIS_MINE_SAFETY_DISCLOSURE"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 4.
+<FONT FACE="TIMES NEW ROMAN">
+	MINE SAFETY DISCLOSURES
+</FONT>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable.
+</DIV>
+</EFX_MINE_SAFETY_DISCLOSURE>
+</EFX_PART_I>
+<!-- LINK2 "PART II" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE007">
+</A>
+</DIV>
+<EFX_PART_II>
+<A NAME="FIS_PART_II"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	PART II
+</DIV>
+<!-- LINK2 "ITEM 5. MARKET FOR REGISTRANT&#146;S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE008">
+</A>
+</DIV>
+<EFX_MARKET>
+<A NAME="FIS_MARKET"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 6%; TEXT-INDENT: -6%">
+	ITEM 5. MARKET FOR REGISTRANT&#146;S COMMON EQUITY, RELATED
+	STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY
+	SECURITIES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	The Trust Certificates issued by PPLUS Trust Series
+	GSC-2 are represented by one or more physical
+	certificates registered in the name of Cede &#038; Co., the
+	nominee of the Depository Trust Company. The Trust
+	Certificates are listed on the New York Stock
+	Exchange.
+</DIV>
+</EFX_MARKET>
+<!-- LINK2 "ITEM 6. SELECTED FINANCIAL DATA" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE009">
+</A>
+</DIV>
+<EFX_FINANCIAL_DATA>
+<A NAME="FIS_FINANCIAL_DATA"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 6. SELECTED FINANCIAL DATA
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable.
+</DIV>
+</EFX_FINANCIAL_DATA>
+<!-- LINK2 "ITEM 7. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE010">
+</A>
+</DIV>
+<EFX_MANAGEMENTS_DISCUSSION>
+<A NAME="FIS_MANAGEMENTS_DISCUSSION"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 7. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL
+	CONDITION AND RESULTS OF OPERATIONS
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable.
+</DIV>
+</EFX_MANAGEMENTS_DISCUSSION>
+<!-- LINK2 "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE011">
+</A>
+</DIV>
+<EFX_MARKET_RISK>
+<A NAME="FIS_MARKET_RISK"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET
+	RISK
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable.
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	11
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+</EFX_MARKET_RISK>
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage13"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 11; PAGE: 11" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<!-- LINK2 "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE012">
+</A>
+</DIV>
+<EFX_FINANCIAL_STATEMENTS>
+<A NAME="FIS_FINANCIAL_STATEMENTS"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable.
+</DIV>
+</EFX_FINANCIAL_STATEMENTS>
+<!-- LINK2 "ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE013">
+</A>
+</DIV>
+<EFX_ACCOUNTING_CHANGES>
+<A NAME="FIS_ACCOUNTING_CHANGES"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+	ACCOUNTING AND FINANCIAL DISCLOSURE
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.
+</DIV>
+</EFX_ACCOUNTING_CHANGES>
+<!-- LINK2 "ITEM 9A. CONTROLS AND PROCEDURES" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE014">
+</A>
+</DIV>
+<EFX_CONTROL_AND_PROCEDURES>
+<A NAME="FIS_CONTROL_AND_PROCEDURES"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 9A. CONTROLS AND PROCEDURES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	The Registrant has procedures so as to provide reasonable assurance that its future Exchange Act filings will be filed within the applicable time periods.
+</DIV>
+</EFX_CONTROL_AND_PROCEDURES>
+<!-- LINK2 "ITEM 9B. OTHER INFORMATION" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE015">
+</A>
+</DIV>
+<EFX_OTHER_INFORMATION>
+<A NAME="FIS_OTHER_INFORMATION"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 9B. OTHER INFORMATION
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.
+</DIV>
+</EFX_OTHER_INFORMATION>
+</EFX_PART_II>
+<!-- LINK2 "PART III" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE016">
+</A>
+</DIV>
+<EFX_PART_III>
+<A NAME="FIS_PART_III"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	PART III
+</DIV>
+<!-- LINK2 "ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE017">
+</A>
+</DIV>
+<EFX_DIRECTORS_AND_OFFICERS>
+<A NAME="FIS_DIRECTORS_AND_OFFICERS"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable.
+</DIV>
+</EFX_DIRECTORS_AND_OFFICERS>
+<!-- LINK2 "ITEM 11. EXECUTIVE COMPENSATION" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE018">
+</A>
+</DIV>
+<EFX_COMPENSATION>
+<A NAME="FIS_COMPENSATION"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 11. EXECUTIVE COMPENSATION
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable.
+</DIV>
+</EFX_COMPENSATION>
+<!-- LINK2 "ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE019">
+</A>
+</DIV>
+<EFX_SECURITY_OWNERS>
+<A NAME="FIS_SECURITY_OWNERS"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 7%; TEXT-INDENT: -7%">
+	ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+	MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+</DIV>
+<DIV STYLE="MARGIN-TOP: 6PT">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="FONT-SIZE: 10PT">
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="4%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+	(a)
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	Securities Authorized For Issuance Under Equity
+	Compensation Plans: None.
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="4%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+	(b)
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	Security Ownership Of Certain Beneficial Owners:
+	None.
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="4%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+	(c)
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	Security Ownership Of Management: Not Applicable.
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="4%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+	(d)
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	Changes In Control: None.
+</TD>
+</TR>
+</TABLE>
+</DIV>
+</EFX_SECURITY_OWNERS>
+<!-- LINK2 "ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE020">
+</A>
+</DIV>
+<EFX_OFFICER_TRANSACTIONS>
+<A NAME="FIS_OFFICER_TRANSACTIONS"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.
+</DIV>
+</EFX_OFFICER_TRANSACTIONS>
+<!-- LINK2 "ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE021">
+</A>
+</DIV>
+<EFX_ACCOUNTANT_FEES>
+<A NAME="FIS_ACCOUNTANT_FEES"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable.
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	12
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+</EFX_ACCOUNTANT_FEES>
+</EFX_PART_III>
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage14"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 12; PAGE: 12" -->
+<EFX_PART_IV>
+<A NAME="FIS_PART_IV"></A>
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<!-- LINK2 "PART IV" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE022">
+</A>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	PART IV
+</DIV>
+<!-- LINK2 "ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE023">
+</A>
+</DIV>
+<EFX_EXHIBITS>
+<A NAME="FIS_EXHIBITS"></A>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	(a)(1) Financial Statements: Not Applicable.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	(a)(2) Financial Statement Schedules: Not Applicable.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	(a)(3) List of Exhibits
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	The following exhibits are filed as part of, and
+	incorporated by reference into, this Annual Report on
+	Form 10-K:
+</DIV>
+<DIV STYLE="MARGIN-TOP: 6PT">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="FONT-SIZE: 10PT">
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="4%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+	31.1.
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	Certification of the Vice President of Registrant dated March 24,
+	2014, pursuant to Rules 13a-14 and 15d-14 under the Securities Exchange
+	Act of 1934, as adopted pursuant to Section&nbsp;302 of the Sarbanes-Oxley
+	Act of 2002, with respect to the Registrant&#146;s Annual Report on
+	Form 10-K for the year ended December&nbsp;31, 2013.
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="4%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+	99.1.
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	Trustee&#146;s Annual Compliance Certificate dated February 20,
+	2014.
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="4%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+	99.2.
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	Report of
+<FONT FACE="TIMES NEW ROMAN">
+	PricewaterhouseCoopers LLP
+</FONT>
+	,
+	Independent Registered Public Accounting Firm, dated March 21,
+	2014, Registrant&#146;s Assertion on Compliance with PPLUS Minimum
+	Servicing Standards dated March 21, 2014 and PPLUS Minimum Servicing
+	Standards.
+</TD>
+</TR>
+<TR>
+<TD STYLE="FONT-SIZE: 6PT">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="TOP" STYLE="FONT-SIZE: 10PT; COLOR: #000000; BACKGROUND: TRANSPARENT">
+<TD WIDTH="4%" STYLE="BACKGROUND: TRANSPARENT">
+	&nbsp;
+</TD>
+<TD WIDTH="3%" NOWRAP ALIGN="LEFT">
+	99.3.
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD>
+	Report of KPMG LLP, Independent Registered Public Accounting Firm,
+	dated January 28, 2014, The Bank of New York Mellon&#146;s Assertion
+	on Compliance with PPLUS Minimum Servicing Standards dated January 28,
+	2014 and PPLUS Minimum Servicing Standards.
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	(b)&nbsp;Exhibits
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 4%">
+	The Registrant hereby files as part of this Annual
+	Report on Form 10-K the exhibits listed in Item
+	15(a)(3) set forth above.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 2%">
+	(c)&nbsp;Financial Statement Schedules
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT; MARGIN-LEFT: 4%">
+	Not Applicable.
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	13
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+</EFX_EXHIBITS>
+</EFX_PART_IV>
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage15"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 13; PAGE: 13" -->
+<EFX_SIGNATURES>
+<A NAME="FIS_SIGNATURES"></A>
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<!-- LINK1 "SIGNATURES" -->
+<DIV ALIGN="LEFT">
+<A NAME="E57152-10K_HTM_PAGE024">
+</A>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 18PT">
+	SIGNATURES
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities
+	Exchange Act of 1934, the registrant has duly caused this report to be signed
+	on its behalf by the undersigned, hereunto duly authorized.
+</DIV>
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="FONT-SIZE: 10PT">
+<TR>
+<TD WIDTH="48%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="35%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP" ALIGN="LEFT">
+	&nbsp;
+</TD>
+<TD COLSPAN="3" ALIGN="LEFT">
+	MERRILL LYNCH DEPOSITOR, INC.
+<BR>
+	&nbsp;
+</TD>
+<TD>
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT">
+	Date: March 27, 2014
+</TD>
+<TD VALIGN="TOP">
+	By:&nbsp;&nbsp;
+</TD>
+<TD COLSPAN="2" STYLE="BORDER-BOTTOM: 1PX SOLID #000000" ALIGN="LEFT">
+	/s/ John Marciano
+</TD>
+<TD>
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT">
+	&nbsp;
+</TD>
+<TD>
+	&nbsp;
+</TD>
+<TD VALIGN="TOP">
+	Name:&nbsp;&nbsp;
+</TD>
+<TD ALIGN="LEFT">
+<FONT FACE="TIMES NEW ROMAN">
+	John Marciano
+</FONT>
+</TD>
+<TD>
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT">
+	&nbsp;
+</TD>
+<TD>
+	&nbsp;
+</TD>
+<TD VALIGN="TOP">
+	Title:&nbsp;&nbsp;
+</TD>
+<TD ALIGN="LEFT">
+	Vice President
+</TD>
+<TD>
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	&nbsp;
+<!-- /FOLIO -->
+</P>
+</DIV>
+<!-- MARKER FORMAT-SHEET="5 PT RULE NO SPACE" FSL="WORKSTATION" -->
+<HR SIZE=5 NOSHADE WIDTH=100% ALIGN=LEFT>
+</EFX_SIGNATURES>
+</EFX_FORM>
+
+<DIV CLASS="eolNewPage"></DIV>
+<A NAME="eolPage16"></A>
+<A NAME="E57152EX31_1_HTM"></A>
+<EFX_EXHIBIT_31>
+<A NAME="FIS_EXHIBIT_31"></A>
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="FONT-SIZE: 10PT">
+<TR>
+<TD WIDTH="48%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="35%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 18PT">
+	EXHIBIT 31.1
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	I,
+<FONT FACE="TIMES NEW ROMAN">
+	John
+	Marciano
+</FONT>
+	, certify that:
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;I have reviewed this annual report on Form 10-K, and all reports on
+	Form&nbsp;8-K containing distribution or servicing reports filed in respect of
+	periods included in the year covered by this annual report, of Merrill Lynch
+	Depositor, Inc., on behalf of PPLUS Trust Series&nbsp;GSC-2;
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;Based on my knowledge, the information in these reports, taken as a
+	whole, does not contain any untrue statement of a material fact or omit to state
+	a material fact necessary to make the statements made, in light of the
+	circumstances under which such statements were made, not misleading as of the
+	last day of the period covered by this annual report;
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;Based on my knowledge, the distribution or servicing information
+	required to be provided to the depositor by the trustee under the pooling and
+	servicing, or similar, agreement for inclusion in these reports is included in
+	these reports;
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;I am responsible for reviewing the activities performed by the
+	depositor and the trustee under the pooling and servicing, or similar, agreement
+	and based upon my knowledge and the annual compliance review required under that
+	agreement, and except as disclosed in the reports, the depositor and trustee
+	have each fulfilled its obligations under that agreement; and
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;The reports disclose all significant deficiencies relating to the
+	compliance by the depositor or trustee with the minimum servicing or similar
+	standards based upon the report provided by an independent public accountant,
+	after conducting a review in compliance with the Uniform Single Attestation
+	Program for Mortgage Bankers or similar procedure, as set forth in the pooling
+	or servicing, or similar, agreement, that is included in these reports.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	In giving the certifications above, I have reasonably relied on information
+	provided to me by the following unaffiliated parties: The Bank of New York Mellon and
+	its officers and agents.
+</DIV>
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="FONT-SIZE: 10PT">
+<TR>
+<TD WIDTH="48%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="35%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP" ALIGN="LEFT">
+	&nbsp;
+</TD>
+<TD COLSPAN="3" ALIGN="LEFT">
+	&nbsp;
+</TD>
+<TD>
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT">
+	Date: March 24, 2014
+</TD>
+<TD COLSPAN="3" STYLE="BORDER-BOTTOM: 1PX SOLID #000000" ALIGN="LEFT">
+	/s/
+<FONT STYLE="FONT-FAMILY: TIMES NEW ROMAN">
+	John Marciano
+</FONT>
+</TD>
+<TD>
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT">
+	&nbsp;
+</TD>
+<TD COLSPAN="3" ALIGN="LEFT">
+<FONT FACE="TIMES NEW ROMAN">
+	John Marciano
+</FONT>
+<BR>
+	Vice President&nbsp;
+</TD>
+<TD>
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT">
+	&nbsp;
+</TD>
+<TD COLSPAN="3" ALIGN="LEFT">
+	&nbsp;
+</TD>
+<TD>
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	&nbsp;
+<!-- /FOLIO -->
+</P>
+</DIV>
+<!-- MARKER FORMAT-SHEET="5 PT RULE NO SPACE" FSL="WORKSTATION" -->
+<HR SIZE=5 NOSHADE WIDTH=100% ALIGN=LEFT>
+</EFX_EXHIBIT_31>
+
+<DIV CLASS="eolNewPage"></DIV>
+<A NAME="eolPage17"></A>
+<A NAME="E57152EX99_1_HTM"></A>
+<EFX_EXHIBIT_99>
+<A NAME="FIS_EXHIBIT_99"></A>
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="FONT-SIZE: 10PT">
+<TR>
+<TD WIDTH="48%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="35%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 18PT">
+<P>
+<IMG SRC="http://content.edgar-online.com/edgar_conv_img/2014/03/27/0001174947-14-000116_IMAGE001.JPG" WIDTH="264" HEIGHT="77">
+</P>
+<P>
+	EXHIBIT 99.1
+</P>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	THE BANK OF NEW YORK
+	MELLON
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Officer&#146;s Certificate
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+<DIV ALIGN="CENTER">
+<DIV STYLE="FONT-SIZE: 3PT; MARGIN-TOP: 16PT; WIDTH: 26%; BORDER-TOP: 1PX SOLID #000000">
+	&nbsp;
+</DIV>
+</DIV>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	February 20, 2014
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	MERRILL LYNCH DEPOSITOR, INC.
+<BR>
+<FONT FACE="TIMES NEW ROMAN, TIMES, SERIF" SIZE=2>
+	One Bryant Park
+<BR>
+	4th Floor &#150; Structured Credit Trading
+<BR>
+	New York, New York 10036
+</FONT>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 18PT">
+	PREFERREDPLUS, PPLUS TRUST AND INDEXPLUS CERTIFICATE
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+<P>
+	The undersigned, James W. P. Hall, Vice President of The Bank of New York Mellon (formerly The Bank of New York), a New
+	York corporation (the &#147;Trustee&#148;), hereby certifies in such capacity that, based on his knowledge, the Trustee
+	has complied, in all material respects, with all conditions and covenants applicable to the Trustee under the Standard
+	Terms for Trust Agreements dated February 20, 1998 between Merrill Lynch Depositor, Inc. as depositor (the
+	&#147;Depositor&#148;) and the Trustee, as successor to United States Trust Company of New York, as trustee and
+	securities intermediary (the &#147;Securities Intermediary&#148;), in each case as amended by a series supplement between
+	the Depositor, the Trustee and the Securities Intermediary for each trust series listed in the attached schedule.
+</P>
+</DIV>
+</DIV>
+<DIV>
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="FONT-SIZE: 10PT">
+<TR>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="44%">
+	&nbsp;
+</TD>
+<TD COLSPAN="3" ALIGN="LEFT">
+	Very truly yours,
+<BR>
+<BR>
+	The Bank of New York Mellon (formerly
+<BR>
+	The Bank of New York), as Trustee
+<BR>
+	&nbsp;
+</TD>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" WIDTH="44%">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" WIDTH="1%">
+	By:&nbsp;&nbsp;
+</TD>
+<TD STYLE="BORDER-BOTTOM: 1PX SOLID #000000" ALIGN="LEFT">
+	/s/
+</TD>
+<TD STYLE="BORDER-BOTTOM: 1PX SOLID #000000" ALIGN="LEFT">
+	James W. P. Hall
+</TD>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" WIDTH="44%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" WIDTH="3%">
+	Name:&nbsp;&nbsp;
+</TD>
+<TD ALIGN="LEFT" WIDTH="49%">
+	James W. P. Hall
+</TD>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" WIDTH="44%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" WIDTH="3%">
+	Title:&nbsp;&nbsp;
+</TD>
+<TD ALIGN="LEFT" WIDTH="49%">
+	Vice President
+</TD>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage18"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 17; PAGE: 17" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="FONT-SIZE: 10PT">
+<TR>
+<TD WIDTH="48%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="35%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 18PT">
+	SCHEDULE
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	INDEXPLUS Trust Series 2003-1
+<BR>
+	PPLUS Trust Series GSC-1
+<BR>
+	PPLUS Trust Series GSC-2
+<BR>
+	PPLUS Trust Series GSG-2
+<BR>
+	PPLUS Trust Series JPM-1
+<BR>
+	PreferredPLUS Trust Series CZN-1
+<BR>
+	PreferredPLUS Trust Series FAR-1
+<BR>
+	PreferredPLUS Trust Series QWS-1
+<BR>
+	PreferredPLUS Trust Series QWS-2
+<BR>
+	PreferredPLUS Trust Series VER-1
+<BR>
+<BR>
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+</P>
+</DIV>
+<!-- MARKER FORMAT-SHEET="5 PT RULE NO SPACE" FSL="WORKSTATION" -->
+<HR SIZE=5 NOSHADE WIDTH=100% ALIGN=LEFT>
+</EFX_EXHIBIT_99>
+
+<DIV CLASS="eolNewPage"></DIV>
+<A NAME="eolPage19"></A>
+<A NAME="E57152EX99_2_HTM"></A>
+<EFX_EXHIBIT_99>
+<A NAME="FIS_EXHIBIT_99_2"></A>
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 18PT">
+<P STYLE="TEXT-ALIGN: CENTER;">
+	EXHIBIT 99.2
+</P>
+<P STYLE="TEXT-ALIGN: CENTER;">
+	[PricewaterhouseCoopers Letterhead]
+<B>
+	&nbsp;
+</B>
+</P>
+<P STYLE="TEXT-ALIGN: CENTER">
+<B>
+	Report of Independent Accountants
+</B>
+</P>
+<P STYLE="TEXT-ALIGN: LEFT;">
+	Merrill Lynch Depositor, Inc.
+</P>
+<P STYLE="TEXT-ALIGN: LEFT;">
+	We have examined management&#146;s assertion that Merrill Lynch Depositor, Inc. (the
+	&#147;Company&#148;) has complied as of and for the year ended December 31, 2013, with its established minimum servicing
+	standards described in the accompanying Management&#146;s Assertion on Compliance with PPLUS Minimum Servicing Standards
+	with respect to PPLUS Trust Series GSC-2, dated March 21, 2014. The Company&rsquo;s management is responsible for the
+	assertion related to their compliance with the minimum servicing standards excluding those with respect to the Bank
+	of New York Mellon as Trustee, Custodian, Paying Agent and Transfer Agent. Our responsibility is to express an
+	opinion on management&#146;s assertion based on our examination.
+</P>
+<P STYLE="TEXT-ALIGN: LEFT;">
+	Our examination was conducted in accordance with attestation standards established by the American Institute of Certified Public Accountants and, accordingly, included examining, on a test basis, evidence about the Company&#146;s compliance with its minimum servicing standards and performing such other procedures as we considered necessary in the circumstances. We believe that our examination provides a reasonable basis for our opinion. Our examination does not provide a legal determination on the Company&#146;s compliance with its minimum servicing standards.
+</P>
+<P STYLE="TEXT-ALIGN: LEFT;">
+	In our opinion, management&#146;s assertion referred to above presents in all material respects, the Company&rsquo;s compliance with its minimum servicing standards as of and for the year ended December 31, 2013, based on the criteria set forth in Appendix I.
+</P>
+<P STYLE="TEXT-ALIGN: LEFT;">
+	/s/ PricewaterhouseCoopers LLP
+</P>
+<P STYLE="TEXT-ALIGN: LEFT;">
+	New York, NY
+<BR>
+	March 21, 2014
+</P>
+</DIV>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage20"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 18PT">
+	Management&#146;s Assertion on Compliance with PPLUS Minimum
+<BR>
+	Servicing Standards
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	March 21,
+	2014
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	As of and
+	for the year ended December&nbsp;31, 2013, Merrill Lynch Depositor, Inc.
+	(the &#147;Company&#148;) has complied, in all material respects, with the Company&#146;s
+	established minimum servicing standards, as set forth in Appendix&nbsp;I, for
+	servicing the securities in each of the Trust Series, as listed on Schedule&nbsp;A
+	hereto, excluding those with respect to the Bank of New York Mellon as Trustee,
+	Custodian, Paying Agent and Transfer Agent.
+</DIV>
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="FONT-SIZE: 10PT">
+<TR>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+<TD WIDTH="2%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="14%">
+	&nbsp;
+</TD>
+<TD WIDTH="47%">
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+	&nbsp;
+</TD>
+<TD COLSPAN="3" ALIGN="LEFT">
+	&nbsp;
+</TD>
+<TD WIDTH="47%">
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP" WIDTH="3%">
+	By:&nbsp;&nbsp;
+</TD>
+<TD COLSPAN="2" STYLE="BORDER-BOTTOM: 1PX SOLID #000000" ALIGN="LEFT">
+	/s/ John Marciano
+</TD>
+<TD WIDTH="14%">
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" WIDTH="3%">
+	&nbsp;
+</TD>
+<TD COLSPAN="2" ALIGN="LEFT">
+<FONT FACE="TIMES NEW ROMAN">
+	John Marciano
+</FONT>
+</TD>
+<TD WIDTH="14%">
+	&nbsp;
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" WIDTH="3%">
+	&nbsp;
+</TD>
+<TD COLSPAN="2" ALIGN="LEFT">
+	Vice President
+<BR>
+	Merrill Lynch Depositor, Inc.
+</TD>
+<TD WIDTH="14%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 18PT">
+	***************
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	&nbsp;
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage21"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 19; PAGE: 19" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" STYLE="FONT-SIZE: 10PT">
+<TR>
+<TD WIDTH="48%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="35%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 18PT">
+	SCHEDULE A
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	PreferredPLUS Trust Series&nbsp;CZN-1
+<BR>
+	PreferredPLUS Trust Series&nbsp;VER-1
+<BR>
+	PreferredPLUS Trust Series&nbsp;FAR-1
+<BR>
+	PPLUS Trust Series&nbsp;GSG-2
+<BR>
+	PPLUS Trust Series&nbsp;GSC-1
+<BR>
+	PPLUS Trust Series&nbsp;GSC-2
+<BR>
+	PPLUS Trust Series&nbsp;GSC-3
+<BR>
+	INDEXPLUS Trust Series 2003-1
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	&nbsp;
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage22"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 20; PAGE: 20" -->
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 14.2PT 12PT 0">
+<B>
+	Appendix I
+</B>
+</P>
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 14.2PT 12PT 0">
+<B>
+	&nbsp;
+</B>
+</P>
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 14.2PT 12PT 0; TEXT-ALIGN: CENTER">
+<B>
+	PPLUS Minimum Servicing Standards intended
+	for use
+</B>
+</P>
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 14.2PT 12PT 0; TEXT-ALIGN: CENTER">
+<B>
+	in connection with the Annual Accountants
+	Report (&quot;AAR&quot;)
+</B>
+</P>
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 14.2PT 12PT 0.25IN">
+	&nbsp;
+</P>
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 14.2PT 12PT 0.25IN">
+	Below is Merrill Lynch Depositor, Inc.'s (&quot;the
+	Depositor&quot;), Merrill Lynch Structured Credit Derivatives (&quot;SCD&quot;) and the Merrill Lynch Credit Derivatives Operations
+	Group (&quot;OG&quot;) (collectively Merrill Lynch) minimum servicing standards for the PreferredPlus Program (&quot;PPlus&quot;).
+</P>
+<P STYLE="FONT: 10PT ARIAL, HELVETICA, SANS-SERIF; MARGIN: 0 14.2PT 12PT 0.25IN">
+<FONT STYLE="FONT-FAMILY: GEORGIA, TIMES, SERIF">
+	The
+	Bank of New York Mellon (&quot;the Bank&quot; or &#8220;the Trustee&#8221;) acting as Trustee, Custodian, Paying Agent, and Transfer
+	Agent on behalf of the PPlus Program has agreed to comply with all of the following minimum servicing standards. Merrill Lynch
+	has obtained a certification from the Bank that it has complied with these criteria for
+	the period January 1, 2013 to December 31, 2013.
+</FONT>
+</P>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE_2"></A>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="WIDTH: 100%; BORDER-COLLAPSE: COLLAPSE; FONT-FAMILY: ARIAL, HELVETICA, SANS-SERIF; MARGIN-BOTTOM: 12PT">
+<TR STYLE="BACKGROUND-COLOR: #C00000">
+<TD COLSPAN="2" STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	MINIMUM Servicing STANDARD
+</B>
+</FONT>
+</TD>
+<TD COLSPAN="2" STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	Applicable
+</B>
+</FONT>
+<BR>
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	Servicing STANDARD
+</B>
+</FONT>
+</TD>
+</TR>
+<TR STYLE="BACKGROUND-COLOR: #D9D9D9">
+<TD STYLE="WIDTH: 15%; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Reference
+</B>
+</FONT>
+</TD>
+<TD STYLE="WIDTH: 48%; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Criteria
+</B>
+</FONT>
+</TD>
+<TD STYLE="WIDTH: 19%; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Performed by the Depositor
+</B>
+</FONT>
+</TD>
+<TD STYLE="WIDTH: 18%; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Performed by Bank/Trustee
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING: 12PT 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	CUSTODIAL BANK ACCOUNT RECONCILIATIONS
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD ROWSPAN="2" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	1
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank must reconcile all related custodial bank accounts.
+</FONT>
+<BR>
+<BR>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank will include the Distribution report as Exhibit 99.1 in the Form 8-Ks filed with the SEC.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-TOP: 12PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	&nbsp;X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING: 12PT 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	VERIFICATION OF INCOMING TRUST COLLATERAL INTEREST PAYMENTS
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD ROWSPAN="3" STYLE="BORDER: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	2
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank must have a tickler system in place so that they will be expecting and monitoring the custodial bank account for receipt of the collateral coupon interest.&nbsp;&nbsp;Each of the tickler systems shall be updated on an on-going basis as each new trust series is created.
+</FONT>
+</TD>
+<TD STYLE="BORDER: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank will ensure all interest payments are deposited into the custodial bank accounts and related bank clearing accounts on the day the Bank is in receipt of the funds.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank must prove the arithmetic accuracy of the amount of interest received by the Trust from the underlying securities and ensure that the face amount, description, coupon rate, and maturity date of the securities held in the Trust agree to the PPM Supplement dated Date XX, 20XX
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</EFX_UNIDENTIFIED_TABLE>
+<P STYLE="MARGIN: 0">
+	&nbsp;
+</P>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 6PT; MARGIN-BOTTOM: 6PT; PADDING-BOTTOM: 3PT; BORDER-BOTTOM: BLACK 4PT SOLID">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 8PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: RIGHT; WIDTH: 100%">
+<!-- FIELD: SEQUENCE; TYPE: ARABIC; NAME: PAGENO -->
+	1
+<!-- FIELD: /SEQUENCE -->
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage23"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<P STYLE="MARGIN: 0">
+</P>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE_3"></A>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="WIDTH: 100%; BORDER-COLLAPSE: COLLAPSE; FONT-FAMILY: ARIAL, HELVETICA, SANS-SERIF; MARGIN-BOTTOM: 12PT">
+<TR STYLE="BACKGROUND-COLOR: #C00000">
+<TD COLSPAN="2" STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	MINIMUM Servicing STANDARD
+</B>
+</FONT>
+</TD>
+<TD COLSPAN="2" STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	Applicable
+</B>
+</FONT>
+<BR>
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	Servicing STANDARD
+</B>
+</FONT>
+</TD>
+</TR>
+<TR STYLE="BACKGROUND-COLOR: #D9D9D9">
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Reference
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Criteria
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Performed by the Depositor
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Performed by Bank/Trustee
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<BR>
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	TRUST DISBURSEMENTS
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD ROWSPAN="2" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; WIDTH: 15%">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	3
+</B>
+</FONT>
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT; WIDTH: 48%">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank must prove the arithmetic accuracy of the amount of interest to be paid by the Trust to the Debt Unit holders by referring to the PPM Supplement dated Date XX, 20XX.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; WIDTH: 19%">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; WIDTH: 18%">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank will make all disbursements via wire transfer to The Depository Trust Company (&quot;DTC&quot;) on the scheduled trust distribution date as soon as the amount of interest received from the underlying collateral into the custodial bank account has been received and verified for accuracy.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING: 12PT 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	PARTIAL REDEMPTIONS
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	4
+</B>
+</FONT>
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	If there is a partial redemption of the trust certificates the Bank and the Depositor must ensure that the redemption proceeds received by the Trust and distributed by the Bank are in accordance with the series supplement.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING: 12PT 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	DEFAULTS
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD ROWSPAN="2" STYLE="BORDER: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	5
+</B>
+</FONT>
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-TOP: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	If the Bank has actual knowledge of an event of default on the underlying securities that did not cause the Trust to liquidate, the Bank must distribute a formal notice of default to the Depositor, the certificateholders, the rating agencies and SCD/OG.
+</FONT>
+</TD>
+<TD STYLE="BORDER: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	If the Bank has actual knowledge of an event of default on the underlying securities that did not cause the Trust to liquidate, the procedures for a vote or consent of the certificateholders as set forth in the Standard Terms and series Supplement must be complied with.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; PADDING-TOP: 12PT; PADDING-BOTTOM: 12PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	CALL WARRANT EXERCISES AND OPTIONAL EXCHANGES
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="BORDER: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	6
+</B>
+</FONT>
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-TOP: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; PADDING-BOTTOM: 12PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	If there is an exercise of call warrants or an optional exchange of trust certificates for underlying securities that did
+<U>
+	not
+</U>
+	cause the Trust to liquidate, the Bank must give the Depositor and the affected certificateholders notice of any exercise of call warrants or optional exchange.&nbsp;&nbsp;Such notice must contain the amount of certificates to be purchased, the call price, and any other relevant information.
+</FONT>
+</TD>
+<TD STYLE="BORDER: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</EFX_UNIDENTIFIED_TABLE>
+<P STYLE="MARGIN: 0">
+	&nbsp;
+</P>
+<!-- FIELD: PAGE; SEQUENCE: 2 -->
+<DIV STYLE="MARGIN-TOP: 6PT; MARGIN-BOTTOM: 6PT; PADDING-BOTTOM: 3PT; BORDER-BOTTOM: BLACK 4PT SOLID">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 8PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: RIGHT; WIDTH: 100%">
+<!-- FIELD: SEQUENCE; TYPE: ARABIC; NAME: PAGENO -->
+	2
+<!-- FIELD: /SEQUENCE -->
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage24"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<P STYLE="MARGIN: 0">
+</P>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE_4"></A>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="WIDTH: 100%; BORDER-COLLAPSE: COLLAPSE; FONT-FAMILY: ARIAL, HELVETICA, SANS-SERIF; MARGIN-BOTTOM: 12PT">
+<TR STYLE="BACKGROUND-COLOR: #C00000">
+<TD COLSPAN="2" STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	MINIMUM Servicing STANDARD
+</B>
+</FONT>
+</TD>
+<TD COLSPAN="2" STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	Applicable
+</B>
+</FONT>
+<BR>
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	Servicing STANDARD
+</B>
+</FONT>
+</TD>
+</TR>
+<TR STYLE="BACKGROUND-COLOR: #D9D9D9">
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Reference
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Criteria
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Performed by the Depositor
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Performed by Bank/Trustee
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="BORDER-LEFT: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT; PADDING-BOTTOM: 12PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	If there is an exercise of call warrants or an optional exchange of trust certificates for underlying securities that did
+<U>
+	not
+</U>
+	cause the trust to liquidate, the Bank must notify the rating agencies of the call exercise or optional exchange.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="BORDER-LEFT: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; WIDTH: 15%">
+	&nbsp;
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; WIDTH: 48%; PADDING-BOTTOM: 12PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	If there is an exercise of call warrants or an optional exchange of trust certificates for underlying securities that did
+<U>
+	not
+</U>
+	cause the trust to liquidate, the Bank must give notice of exercise or optional exchange to the Depositor and certificate registrar of any certificates that were called.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; WIDTH: 19%">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; WIDTH: 18%">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING: 12PT 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	COMMUNICATIONS WITH CERTIFICATEHOLDERS
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	7
+</B>
+</FONT>
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT">
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 0 12PT">
+	If there was any occasion for the exercise of voting rights or
+	giving consents by the certificateholders, the Bank must provide notice to the certificateholders within 5 business days of the
+	Trust's receipt of notice of the occasion and the Bank must vote or give consents as directed by certificateholders.
+</P>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT">
+<P STYLE="FONT: 10.5PT ARIAL, HELVETICA, SANS-SERIF; MARGIN: 12PT 0 0; TEXT-ALIGN: CENTER">
+	&nbsp;
+</P>
+<P STYLE="FONT: 8PT GEORGIA, TIMES, SERIF; MARGIN: 12PT 0 0; TEXT-ALIGN: CENTER">
+<B>
+	X
+</B>
+</P>
+</TD>
+</TR>
+</TABLE>
+</EFX_UNIDENTIFIED_TABLE>
+<!-- FIELD: PAGE; SEQUENCE: 3; OPTIONS: LAST -->
+<DIV STYLE="MARGIN-TOP: 6PT; MARGIN-BOTTOM: 6PT; PADDING-BOTTOM: 3PT; BORDER-BOTTOM: BLACK 4PT SOLID">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 8PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: RIGHT; WIDTH: 100%">
+<!-- FIELD: SEQUENCE; TYPE: ARABIC; NAME: PAGENO -->
+	3
+<!-- FIELD: /SEQUENCE -->
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0">
+<B>
+</B>
+</P>
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 0 12PT">
+	&nbsp;
+</P>
+</EFX_EXHIBIT_99>
+
+<DIV CLASS="eolNewPage"></DIV>
+<A NAME="eolPage25"></A>
+<A NAME="E57152EX99_3_HTM"></A>
+<EFX_EXHIBIT_99>
+<A NAME="FIS_EXHIBIT_99_3"></A>
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV STYLE="MARGIN-TOP: 6PT">
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="FONT-SIZE: 10PT">
+</TABLE>
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 18PT">
+	EXHIBIT 99.3
+</DIV>
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	[KPMG LLP Letterhead]
+<B>
+	&nbsp;
+</B>
+</DIV>
+<DIV STYLE="TEXT-ALIGN: CENTER; FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+<B>
+	Independent Accountants&#146; Report
+</B>
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	The Board of Directors
+<BR>
+	The Bank of New York Mellon:
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	We have examined the accompanying management&#146;s assertion
+	that The Bank of New York Mellon (formerly The Bank of New York) (the Company) complied with the PPLUS
+	Minimum Servicing Standards for the
+<FONT FACE="TIMES NEW ROMAN, TIMES, SERIF" SIZE=2>
+	PPLUS
+</FONT>
+	Trust Series GSC-2
+	transaction as of and for the year ended December 31, 2013. With respect to servicing standard 4, 5, 6 and 7,
+	management&#146;s assertion indicates that there were no activities performed during the year ended December 31, 2013
+	with respect to the
+<FONT FACE="TIMES NEW ROMAN, TIMES, SERIF" SIZE=2>
+	PPLUS
+</FONT>
+	Trust Series GSC-2 transaction,
+	because there were no occurrences of events that would require the Company to perform such activities. Management is
+	responsible for the Company&#146;s compliance with those minimum servicing standards. Our responsibility is to express an
+	opinion on management&#146;s assertion based on our examination.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Our examination was conducted in accordance with attestation
+	standards established by the American Institute of Certified Public Accountants and, accordingly, included examining, on a
+	test basis, evidence about the Company&#146;s compliance with the PPLUS Minimum Servicing Standards specified above and
+	performing such other procedures as we considered necessary in the circumstances. We believe that our examination provides a
+	reasonable basis for our opinion. Our examination does not provide a legal determination on the Company&#146;s compliance
+	with the PPLUS Minimum Servicing Standards.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	In our opinion, management&#146;s assertion that the Company complied with the aforementioned PPLUS Minimum Servicing Standards for the PPLUS Trust Series GSC-2 transaction as of and for
+	the year ended December 31, 2013 is fairly stated, in all material respects.
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+	/s/ KPMG LLP
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	Chicago, Illinois
+<BR>
+	January 28, 2014
+</DIV>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	&nbsp;
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage26"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 22; PAGE: 22" -->
+<DIV STYLE="FONT-FAMILY: 'TIMES NEW ROMAN',TIMES,SERIF">
+<DIV ALIGN="CENTER" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 18PT">
+	MANAGEMENT ASSERTION
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 12PT">
+</DIV>
+<DIV ALIGN="LEFT" STYLE="FONT-SIZE: 10PT; MARGIN-TOP: 6PT">
+	The Bank of New York Mellon (formerly The Bank of New York) (the &#147;Company&#148;) is responsible for complying with the
+	requirements of the PPLUS Minimum Servicing Standards as they relate to the
+<FONT FACE="TIMES NEW ROMAN, TIMES, SERIF" SIZE=2>
+	PPLUS
+</FONT>
+	Trust Series
+	GSC-2 transaction. With respect to servicing standard 4, 5, 6 and 7, there were no
+	activities performed during the year ended December 31, 2013 with respect to the
+<FONT FACE="TIMES NEW ROMAN, TIMES, SERIF" SIZE=2>
+	PPLUS
+</FONT>
+	Trust Series
+	GSC-2 transaction, because there were no occurrences of events that would
+	require the Company to perform such activities. The Company is responsible for
+	establishing and maintaining effective internal control over compliance with the
+	PPLUS Minimum Servicing Standards. The Company has performed an evaluation of
+	its compliance with the requirements of the PPLUS Minimum
+	Servicing Standards as it relates to
+<FONT FACE="TIMES NEW ROMAN, TIMES, SERIF" SIZE=2>
+	PPLUS
+</FONT>
+	Trust Series GSC-2 as of and for the year ended December 31,
+	2013. Based on this evaluation, the Company asserts that as of and for the year
+	ended December 31, 2013, it has complied with the requirements of the PPLUS
+	Minimum Servicing Standards (attached).
+<BR>
+<BR>
+</DIV>
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR>
+<TD STYLE="TEXT-ALIGN: LEFT; VERTICAL-ALIGN: BOTTOM">
+<P STYLE="MARGIN-BOTTOM: 0PT; PADDING-BOTTOM: 0PT">
+<FONT STYLE="FONT-SIZE: X-SMALL">
+	/s/ Richard P. Stanley
+</FONT>
+</P>
+<HR NOSHADE ALIGN="LEFT" WIDTH="200" SIZE="1">
+<FONT FACE="TIMES NEW ROMAN, TIMES, SERIF" SIZE=2>
+	The Bank of New York Mellon
+<BR>
+	Richard P. Stanley
+<BR>
+	Executive Vice President
+<BR>
+<BR>
+	January 28, 2014
+</FONT>
+</TD>
+<TD WIDTH="50%">
+<P>
+	&nbsp;
+</P>
+</TD>
+</TR>
+</TABLE>
+<P ALIGN="CENTER" STYLE="FONT-SIZE: 10PT">
+<!-- FOLIO -->
+	&nbsp;
+<!-- /FOLIO -->
+</P>
+</DIV>
+<HR SIZE=5 NOSHADE>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 12PT; MARGIN-BOTTOM: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage27"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT; MARGIN-BOTTOM: 12PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 10PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="SHEET: 23; PAGE: 23" -->
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 14.2PT 12PT 0">
+<B>
+	Appendix I
+</B>
+</P>
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 14.2PT 12PT 0">
+<B>
+	&nbsp;
+</B>
+</P>
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 14.2PT 12PT 0; TEXT-ALIGN: CENTER">
+<B>
+	PPLUS Minimum Servicing Standards intended
+	for use
+</B>
+</P>
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 14.2PT 12PT 0; TEXT-ALIGN: CENTER">
+<B>
+	in connection with the Annual Accountants
+	Report (&quot;AAR&quot;)
+</B>
+</P>
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 14.2PT 12PT 0.25IN">
+	&nbsp;
+</P>
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 14.2PT 12PT 0.25IN">
+	Below is Merrill Lynch Depositor, Inc.'s (&quot;the
+	Depositor&quot;), Merrill Lynch Structured Credit Derivatives (&quot;SCD&quot;) and the Merrill Lynch Credit Derivatives Operations
+	Group (&quot;OG&quot;) (collectively Merrill Lynch) minimum servicing standards for the PreferredPlus Program (&quot;PPlus&quot;).
+</P>
+<P STYLE="FONT: 10PT ARIAL, HELVETICA, SANS-SERIF; MARGIN: 0 14.2PT 12PT 0.25IN">
+<FONT STYLE="FONT-FAMILY: GEORGIA, TIMES, SERIF">
+	The
+	Bank of New York Mellon (&quot;the Bank&quot; or &#8220;the Trustee&#8221;) acting as Trustee, Custodian, Paying Agent, and Transfer
+	Agent on behalf of the PPlus Program has agreed to comply with all of the following minimum servicing standards. Merrill Lynch
+	has obtained a certification from the Bank that it has complied with these criteria for
+	the period January 1, 2013 to December 31, 2013.
+</FONT>
+</P>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE_5"></A>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="WIDTH: 100%; BORDER-COLLAPSE: COLLAPSE; FONT-FAMILY: ARIAL, HELVETICA, SANS-SERIF; MARGIN-BOTTOM: 12PT">
+<TR STYLE="BACKGROUND-COLOR: #C00000">
+<TD COLSPAN="2" STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	MINIMUM Servicing STANDARD
+</B>
+</FONT>
+</TD>
+<TD COLSPAN="2" STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	Applicable
+</B>
+</FONT>
+<BR>
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	Servicing STANDARD
+</B>
+</FONT>
+</TD>
+</TR>
+<TR STYLE="BACKGROUND-COLOR: #D9D9D9">
+<TD STYLE="WIDTH: 15%; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Reference
+</B>
+</FONT>
+</TD>
+<TD STYLE="WIDTH: 48%; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Criteria
+</B>
+</FONT>
+</TD>
+<TD STYLE="WIDTH: 19%; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Performed by the Depositor
+</B>
+</FONT>
+</TD>
+<TD STYLE="WIDTH: 18%; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Performed by Bank/Trustee
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING: 12PT 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	CUSTODIAL BANK ACCOUNT RECONCILIATIONS
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD ROWSPAN="2" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	1
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank must reconcile all related custodial bank accounts.
+</FONT>
+<BR>
+<BR>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank will include the Distribution report as Exhibit 99.1 in the Form 8-Ks filed with the SEC.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-TOP: 12PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	&nbsp;X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING: 12PT 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	VERIFICATION OF INCOMING TRUST COLLATERAL INTEREST PAYMENTS
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD ROWSPAN="3" STYLE="BORDER: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	2
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank must have a tickler system in place so that they will be expecting and monitoring the custodial bank account for receipt of the collateral coupon interest.&nbsp;&nbsp;Each of the tickler systems shall be updated on an on-going basis as each new trust series is created.
+</FONT>
+</TD>
+<TD STYLE="BORDER: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank will ensure all interest payments are deposited into the custodial bank accounts and related bank clearing accounts on the day the Bank is in receipt of the funds.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank must prove the arithmetic accuracy of the amount of interest received by the Trust from the underlying securities and ensure that the face amount, description, coupon rate, and maturity date of the securities held in the Trust agree to the PPM Supplement dated Date XX, 20XX
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</EFX_UNIDENTIFIED_TABLE>
+<P STYLE="MARGIN: 0">
+	&nbsp;
+</P>
+<!-- FIELD: PAGE; SEQUENCE: 1 -->
+<DIV STYLE="MARGIN-TOP: 6PT; MARGIN-BOTTOM: 6PT; PADDING-BOTTOM: 3PT; BORDER-BOTTOM: BLACK 4PT SOLID">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 8PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: RIGHT; WIDTH: 100%">
+<!-- FIELD: SEQUENCE; TYPE: ARABIC; NAME: PAGENO -->
+	1
+<!-- FIELD: /SEQUENCE -->
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage28"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<P STYLE="MARGIN: 0">
+</P>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE_6"></A>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="WIDTH: 100%; BORDER-COLLAPSE: COLLAPSE; FONT-FAMILY: ARIAL, HELVETICA, SANS-SERIF; MARGIN-BOTTOM: 12PT">
+<TR STYLE="BACKGROUND-COLOR: #C00000">
+<TD COLSPAN="2" STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	MINIMUM Servicing STANDARD
+</B>
+</FONT>
+</TD>
+<TD COLSPAN="2" STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	Applicable
+</B>
+</FONT>
+<BR>
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	Servicing STANDARD
+</B>
+</FONT>
+</TD>
+</TR>
+<TR STYLE="BACKGROUND-COLOR: #D9D9D9">
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Reference
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Criteria
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Performed by the Depositor
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Performed by Bank/Trustee
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<BR>
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	TRUST DISBURSEMENTS
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD ROWSPAN="2" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; WIDTH: 15%">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	3
+</B>
+</FONT>
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT; WIDTH: 48%">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank must prove the arithmetic accuracy of the amount of interest to be paid by the Trust to the Debt Unit holders by referring to the PPM Supplement dated Date XX, 20XX.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; WIDTH: 19%">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; WIDTH: 18%">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	The Bank will make all disbursements via wire transfer to The Depository Trust Company (&quot;DTC&quot;) on the scheduled trust distribution date as soon as the amount of interest received from the underlying collateral into the custodial bank account has been received and verified for accuracy.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING: 12PT 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	PARTIAL REDEMPTIONS
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	4
+</B>
+</FONT>
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	If there is a partial redemption of the trust certificates the Bank and the Depositor must ensure that the redemption proceeds received by the Trust and distributed by the Bank are in accordance with the series supplement.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING: 12PT 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	DEFAULTS
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD ROWSPAN="2" STYLE="BORDER: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	5
+</B>
+</FONT>
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-TOP: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	If the Bank has actual knowledge of an event of default on the underlying securities that did not cause the Trust to liquidate, the Bank must distribute a formal notice of default to the Depositor, the certificateholders, the rating agencies and SCD/OG.
+</FONT>
+</TD>
+<TD STYLE="BORDER: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	If the Bank has actual knowledge of an event of default on the underlying securities that did not cause the Trust to liquidate, the procedures for a vote or consent of the certificateholders as set forth in the Standard Terms and series Supplement must be complied with.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-BOTTOM: 12PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; PADDING-TOP: 12PT; PADDING-BOTTOM: 12PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	CALL WARRANT EXERCISES AND OPTIONAL EXCHANGES
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="BORDER: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	6
+</B>
+</FONT>
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-TOP: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; PADDING-BOTTOM: 12PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	If there is an exercise of call warrants or an optional exchange of trust certificates for underlying securities that did
+<U>
+	not
+</U>
+	cause the Trust to liquidate, the Bank must give the Depositor and the affected certificateholders notice of any exercise of call warrants or optional exchange.&nbsp;&nbsp;Such notice must contain the amount of certificates to be purchased, the call price, and any other relevant information.
+</FONT>
+</TD>
+<TD STYLE="BORDER: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</EFX_UNIDENTIFIED_TABLE>
+<P STYLE="MARGIN: 0">
+	&nbsp;
+</P>
+<!-- FIELD: PAGE; SEQUENCE: 2 -->
+<DIV STYLE="MARGIN-TOP: 6PT; MARGIN-BOTTOM: 6PT; PADDING-BOTTOM: 3PT; BORDER-BOTTOM: BLACK 4PT SOLID">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 8PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: RIGHT; WIDTH: 100%">
+<!-- FIELD: SEQUENCE; TYPE: ARABIC; NAME: PAGENO -->
+	2
+<!-- FIELD: /SEQUENCE -->
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<A NAME="eolPage29"></A>
+<DIV STYLE="PAGE-BREAK-BEFORE: ALWAYS; MARGIN-TOP: 6PT">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%">
+<TR>
+<TD STYLE="TEXT-ALIGN: CENTER; WIDTH: 100%">
+	&nbsp;
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<P STYLE="MARGIN: 0">
+</P>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE_7"></A>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="WIDTH: 100%; BORDER-COLLAPSE: COLLAPSE; FONT-FAMILY: ARIAL, HELVETICA, SANS-SERIF; MARGIN-BOTTOM: 12PT">
+<TR STYLE="BACKGROUND-COLOR: #C00000">
+<TD COLSPAN="2" STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	MINIMUM Servicing STANDARD
+</B>
+</FONT>
+</TD>
+<TD COLSPAN="2" STYLE="BORDER-TOP: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	Applicable
+</B>
+</FONT>
+<BR>
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; TEXT-TRANSFORM: UPPERCASE; COLOR: WHITE">
+<B>
+	Servicing STANDARD
+</B>
+</FONT>
+</TD>
+</TR>
+<TR STYLE="BACKGROUND-COLOR: #D9D9D9">
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Reference
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Criteria
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Performed by the Depositor
+</B>
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	Performed by Bank/Trustee
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="BORDER-LEFT: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; FONT-SIZE: 10.5PT; PADDING-BOTTOM: 12PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	If there is an exercise of call warrants or an optional exchange of trust certificates for underlying securities that did
+<U>
+	not
+</U>
+	cause the trust to liquidate, the Bank must notify the rating agencies of the call exercise or optional exchange.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="BORDER-LEFT: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; WIDTH: 15%">
+	&nbsp;
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; WIDTH: 48%; PADDING-BOTTOM: 12PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+	If there is an exercise of call warrants or an optional exchange of trust certificates for underlying securities that did
+<U>
+	not
+</U>
+	cause the trust to liquidate, the Bank must give notice of exercise or optional exchange to the Depositor and certificate registrar of any certificates that were called.
+</FONT>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; WIDTH: 19%">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER; WIDTH: 18%">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	X
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="4" STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING: 12PT 5.4PT; TEXT-ALIGN: CENTER; FONT-SIZE: 10.5PT">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	COMMUNICATIONS WITH CERTIFICATEHOLDERS
+</B>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+<FONT STYLE="FONT: 10PT GEORGIA, TIMES, SERIF">
+<B>
+	7
+</B>
+</FONT>
+</TD>
+<TD STYLE="VERTICAL-ALIGN: TOP; BORDER-BOTTOM: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT">
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 0 12PT">
+	If there was any occasion for the exercise of voting rights or
+	giving consents by the certificateholders, the Bank must provide notice to the certificateholders within 5 business days of the
+	Trust's receipt of notice of the occasion and the Bank must vote or give consents as directed by certificateholders.
+</P>
+</TD>
+<TD STYLE="BORDER-RIGHT: BLACK 1.5PT SOLID; BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-LEFT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT; TEXT-ALIGN: CENTER">
+	&nbsp;
+</TD>
+<TD STYLE="BORDER-BOTTOM: BLACK 1.5PT SOLID; BORDER-RIGHT: BLACK 1.5PT SOLID; PADDING-RIGHT: 5.4PT; PADDING-LEFT: 5.4PT">
+<P STYLE="FONT: 10.5PT ARIAL, HELVETICA, SANS-SERIF; MARGIN: 12PT 0 0; TEXT-ALIGN: CENTER">
+	&nbsp;
+</P>
+<P STYLE="FONT: 8PT GEORGIA, TIMES, SERIF; MARGIN: 12PT 0 0; TEXT-ALIGN: CENTER">
+<B>
+	X
+</B>
+</P>
+</TD>
+</TR>
+</TABLE>
+</EFX_UNIDENTIFIED_TABLE>
+<!-- FIELD: PAGE; SEQUENCE: 3; OPTIONS: LAST -->
+<DIV STYLE="MARGIN-TOP: 6PT; MARGIN-BOTTOM: 6PT; PADDING-BOTTOM: 3PT; BORDER-BOTTOM: BLACK 4PT SOLID">
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="WIDTH: 100%; FONT: 8PT TIMES NEW ROMAN, TIMES, SERIF">
+<TR>
+<TD STYLE="TEXT-ALIGN: RIGHT; WIDTH: 100%">
+<!-- FIELD: SEQUENCE; TYPE: ARABIC; NAME: PAGENO -->
+	3
+<!-- FIELD: /SEQUENCE -->
+</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- FIELD: /PAGE -->
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0">
+<B>
+</B>
+</P>
+<P STYLE="FONT: 10PT GEORGIA, TIMES, SERIF; MARGIN: 0 0 12PT">
+	&nbsp;
+</P>
+</EFX_EXHIBIT_99>
+
+<!-- FOOTER LOGO -->
+</BODY>
+</HTML>

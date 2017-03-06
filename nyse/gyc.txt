@@ -1,0 +1,1333 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<!-- Created by: EDGAR Online, Inc. EDGAR Filing HTML Converter, Version: 4.63, http://www.edgar-online.com -->
+<TITLE> CABCO SERIES 2004-102 TRUST (SBC COMMUNICATIONS INC.) (Form: 10-K, Received: 03/30/2016 11:43:49) </TITLE>
+<META NAME="TABLES" CONTENT="FIS_FORM **FIS_PART_I **FIS_BUSINESS **FIS_RISK_FACTORS **FIS_UNRESOLVED_STAFF_COMMENTS **FIS_PROPERTIES **FIS_LEGAL_PROCEEDINGS **FIS_VOTING_MATTERS **FIS_PART_II **FIS_MARKET **FIS_FINANCIAL_DATA **FIS_MANAGEMENTS_DISCUSSION **FIS_MARKET_RISK **FIS_FINANCIAL_STATEMENTS **FIS_ACCOUNTING_CHANGES **FIS_CONTROL_AND_PROCEDURES **FIS_OTHER_INFORMATION **FIS_PART_III **FIS_DIRECTORS_AND_OFFICERS **FIS_COMPENSATION **FIS_SECURITY_OWNERS **FIS_OFFICER_TRANSACTIONS **FIS_ACCOUNTANT_FEES **FIS_PART_IV **FIS_EXHIBITS **FIS_SIGNATURES **FIS_EXHIBIT_INDEX FIS_EXHIBIT_31 **FIS_CERTIFICATION FIS_EXHIBIT_99 FIS_EXHIBIT_99_2 FIS_EXHIBIT_99_3 ">
+<META NAME="DETECTED PAGES" CONTENT="12">
+<STYLE TYPE="text/css">
+<!--
+	body          { background-color: white; color: black }
+	.eolNewPage   { page-break-after: always; line-height: 0; height: 0; margin: 0; padding: 0 }
+	.eolLeftAlign { text-align: left; margin-left: auto; margin-right: auto }
+	.eolCenter    { text-align: center }
+	a:link        { color: blue }
+	a:active      { color: red }
+	a:visited     { color: purple }
+	
+	@media print
+	{
+		@page           { margin: 0.25in }
+		body            { font-size: 10pt }
+		a               { text-decoration: none }
+		thead           { display: table-header-group }
+		tfoot           { display: table-footer-group }
+		hr.eolPageBreak { display: none }
+		.eolPrint50pt   { font-size: 5pt }
+		.eolPrint55pt   { font-size: 5.5pt }
+		.eolPrint60pt   { font-size: 6pt }
+		.eolPrint65pt   { font-size: 6.5pt }
+		.eolPrint70pt   { font-size: 7pt }
+		.eolPrint75pt   { font-size: 7.5pt }
+		.eolPrint80pt   { font-size: 8pt }
+		.eolPrint85pt   { font-size: 8.5pt }
+		.eolPrint90pt   { font-size: 9pt }
+		.eolPrint95pt   { font-size: 9.5pt }
+	}
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<A NAME="eolPage1"></A>
+<A NAME="FIS_TOP_OF_DOCUMENT"></A>
+
+<A NAME="D172263D10K_HTM"></A>
+<EFX_FORM>
+<A NAME="FIS_FORM"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:18PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	UNITED STATES
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:18PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	SECURITIES AND EXCHANGE COMMISSION
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:12PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	WASHINGTON, D.C. 20549
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:18PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	FORM 10-K
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:12PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	FOR ANNUAL
+	AND TRANSITION REPORTS
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:12PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	PURSUANT TO SECTIONS 13 OR 15(d) OF THE
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:12PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	SECURITIES EXCHANGE ACT OF 1934
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	(Mark
+	One)
+</B>
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:12PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+<B>
+</B>
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+<B>
+</B>
+<B>
+</B>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<B>
+	ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+</B>
+</TD>
+</TR>
+</TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	For the fiscal year ended December 31, 2015
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	OR
+</B>
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:12PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+<B>
+</B>
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+<B>
+</B>
+<B>
+</B>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<B>
+	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+</B>
+</TD>
+</TR>
+</TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	For the transition period from
+<U>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</U>
+	to
+<U>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</U>
+	.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Commission file number 001-32387
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:24PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Corporate Asset Backed Corporation, on
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:24PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	behalf of CABCO Series 2004-102 Trust
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:24PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	(SBC Communications Inc.)
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	(Exact name of registrant as specified in its charter)
+</B>
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE"></A>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:8PT" ALIGN="CENTER">
+<TR>
+<TD WIDTH="50%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="48%">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	Delaware
+</B>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	22-3281571
+</B>
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:8PT">
+<TD VALIGN="TOP" ALIGN="CENTER">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	(State or Other Jurisdiction
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:1PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	of Incorporation or Organization)
+</B>
+</P>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	(I.R.S. Employer
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:1PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Identification No.)
+</B>
+</P>
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="16">
+</TD>
+<TD HEIGHT="16" COLSPAN="2">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	68 South Service Road, Suite 120, Melville, New York
+</B>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	11747
+</B>
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:8PT">
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	(Address of Principal Executive Offices)
+</B>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	(Zip Code)
+</B>
+</TD>
+</TR>
+</TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Registrant&#146;s telephone number, including area code: (631) 587-4700
+</B>
+</P>
+</EFX_UNIDENTIFIED_TABLE>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE_2"></A>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Securities registered pursuant to Section 12(b) of the Act:
+</B>
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" ALIGN="CENTER">
+<TR>
+<TD WIDTH="50%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="48%">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:8PT">
+<TD VALIGN="BOTTOM" NOWRAP ALIGN="CENTER">
+<P STYLE="BORDER-BOTTOM:1.00PT SOLID #000000; WIDTH:42.55PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Title of class
+</B>
+</P>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM" NOWRAP ALIGN="CENTER">
+<P STYLE="BORDER-BOTTOM:1.00PT SOLID #000000; WIDTH:150.60PT; FONT-SIZE:8PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Name of each Exchange on which registered
+</B>
+</P>
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" ALIGN="CENTER">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	$32,500,000 CABCO Series 2004-102
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Trust (SBC Communications Inc.)
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:1PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Collared Floating Rate Callable Certificates
+</B>
+</P>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER">
+<B>
+	New York Stock Exchange
+</B>
+</TD>
+</TR>
+</TABLE>
+</EFX_UNIDENTIFIED_TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Securities registered pursuant to Section 12(g) of the Act:&nbsp;None
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+	&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+</P>
+<P STYLE="MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT;PAGE-BREAK-BEFORE:ALWAYS">
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the
+	Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+	&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+	during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+	&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check mark
+	if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in definitive proxy or information statements incorporated by reference in Part
+	III of this Form 10-K or any amendment to this Form 10-K.&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check mark
+	whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer. See definition of &#147;accelerated filer and large accelerated filer&#148; in Rule 12b-2 of the Exchange Act.
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" ALIGN="CENTER">
+<TR>
+<TD WIDTH="16%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="68%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="12%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="1%">
+</TD>
+<TD WIDTH="1%">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="BOTTOM">
+	Large&nbsp;accelerated&nbsp;filer
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+	Accelerated&nbsp;filer
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="8">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="BOTTOM">
+	Non-accelerated filer
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="BOTTOM">
+</TD>
+</TR>
+</TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+	Act).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#168;
+</FONT>
+	&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">
+	&#120;
+</FONT>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	State the aggregate market value of voting and non-voting common stock held by non-affiliates of the registrant: All the common stock of Corporate Asset
+	Backed Corporation, the depositor of the trust, is held by UBS Americas Inc., its parent.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Indicate the number of shares outstanding of each of the
+	registrant&#146;s classes of common stock, as of the latest practicable date: As of March 29, 2016, 100 shares of common stock of Corporate Asset Backed Corporation, the depositor of the trust, par value $1.00 per share, were outstanding.
+</P>
+<A NAME="eolPage2"></A>
+<P STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+<HR SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+	INTRODUCTORY NOTE
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	The Registrant is a trust (the &#147;Trust&#148;) created by the Trust Agreement, dated as of December 15, 2004, between Corporate Asset Backed Corporation,
+	as the depositor (the &#147;Depositor&#148;), and U.S. Bank Trust National Association, as trustee (the &#147;Trustee&#148;), providing for the issuance of $32,500,000 aggregate certificate principal balance of Collared Floating Rate Callable
+	Certificates relating to the 6.450% Global Notes due June 15, 2034 issued by SBC Communications Inc. (the &#147;SBC Securities&#148;). The Certificates do not represent obligations of or interests in the Depositor or the Trustee. The Certificates
+	represent beneficial interests in the Trust. The Trust&#146;s assets consist primarily of $32,500,000 principal amount of the SBC Securities, all payments on or collections in respect of the SBC Securities due on and after December 15, 2004, and the
+	rights of the Trust under the Swap Agreement, dated as of December 15, 2004, between the Trust and UBS AG, as the swap counterparty. SBC Communications Inc., the issuer of the SBC Securities, completed its acquisition of AT&amp;T Corp. on November
+	18, 2005. SBC Communications Inc., now known as AT&amp;T Inc., is subject to the informational requirements of the Securities Exchange Act of 1934, and in accordance with those requirements files periodic and current reports and other information
+	(including financial information) with the Securities and Exchange Commission (&#147;SEC&#148;) (File No. 001-08610). You may read and copy any reports, statements and other information filed by AT&amp;T Inc. (formerly SBC Communications Inc.) with
+	the SEC (a) over the Internet at the SEC website at http://www.sec.gov containing reports, proxy statements and other information regarding registrants that file electronically with the SEC and (b) at the SEC&#146;s public reference room at 450
+	Fifth Street, N.W., Washington, D.C. 20549. You can also request copies of these documents upon payment of a copying fee, by writing to the SEC&#146;s public reference room at 450 Fifth Street, N.W., Washington, D.C. 20549. Please call the SEC at
+	(800) SEC-0330 for further information on SBC Communications Inc. or AT&amp;T Inc. and please refer to these periodic and current reports filed with the SEC.
+</P>
+<A NAME="eolPage3"></A>
+<P STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+<HR SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<EFX_PART_I>
+<A NAME="FIS_PART_I"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Part I
+</B>
+</P>
+<EFX_BUSINESS>
+<A NAME="FIS_BUSINESS"></A>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;1. Business.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable.
+</P>
+</EFX_BUSINESS>
+<EFX_RISK_FACTORS>
+<A NAME="FIS_RISK_FACTORS"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;1A. Risk Factors
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable.
+</P>
+</EFX_RISK_FACTORS>
+<EFX_UNRESOLVED_STAFF_COMMENTS>
+<A NAME="FIS_UNRESOLVED_STAFF_COMMENTS"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;1B. Unresolved Staff Comments
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable.
+</P>
+</EFX_UNRESOLVED_STAFF_COMMENTS>
+<EFX_PROPERTIES>
+<A NAME="FIS_PROPERTIES"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;2. Properties.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable.
+</P>
+</EFX_PROPERTIES>
+<EFX_LEGAL_PROCEEDINGS>
+<A NAME="FIS_LEGAL_PROCEEDINGS"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;3. Legal Proceedings.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	None.
+</P>
+</EFX_LEGAL_PROCEEDINGS>
+<EFX_VOTING_MATTERS>
+<A NAME="FIS_VOTING_MATTERS"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;4. Submission of Matters to a Vote of Security Holders.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	None.
+</P>
+</EFX_VOTING_MATTERS>
+</EFX_PART_I>
+<EFX_PART_II>
+<A NAME="FIS_PART_II"></A>
+<P STYLE="MARGIN-TOP:24PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Part II
+</B>
+</P>
+<EFX_MARKET>
+<A NAME="FIS_MARKET"></A>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;5. Market for Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	The Certificates issued by CABCO Series 2004-102 Trust (SBC Communications Inc.) represent investors&#146; interests in the Trust and are
+	represented by one or more physical certificates registered in the name of Cede &amp; Co., the nominee of The Depository Trust Company.
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	The Certificates are listed on the New York Stock Exchange.
+</P>
+</EFX_MARKET>
+<EFX_FINANCIAL_DATA>
+<A NAME="FIS_FINANCIAL_DATA"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;6. Selected Financial Data.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable.
+</P>
+</EFX_FINANCIAL_DATA>
+<EFX_MANAGEMENTS_DISCUSSION>
+<A NAME="FIS_MANAGEMENTS_DISCUSSION"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable.
+</P>
+</EFX_MANAGEMENTS_DISCUSSION>
+<EFX_MARKET_RISK>
+<A NAME="FIS_MARKET_RISK"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;7A. Quantitative and Qualitative
+	Disclosures About Market Risk.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable.
+</P>
+<A NAME="eolPage4"></A>
+<P STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+<HR SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+</EFX_MARKET_RISK>
+<EFX_FINANCIAL_STATEMENTS>
+<A NAME="FIS_FINANCIAL_STATEMENTS"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;8. Financial Statements and Supplementary Data.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable.
+</P>
+</EFX_FINANCIAL_STATEMENTS>
+<EFX_ACCOUNTING_CHANGES>
+<A NAME="FIS_ACCOUNTING_CHANGES"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;9. Changes in and Disagreements
+	With Accountants on Accounting and Financial Disclosure.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	None.
+</P>
+</EFX_ACCOUNTING_CHANGES>
+<EFX_CONTROL_AND_PROCEDURES>
+<A NAME="FIS_CONTROL_AND_PROCEDURES"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;9A. Controls and Procedures.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable.
+</P>
+</EFX_CONTROL_AND_PROCEDURES>
+<EFX_OTHER_INFORMATION>
+<A NAME="FIS_OTHER_INFORMATION"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;9B. Other Information.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	None.
+</P>
+</EFX_OTHER_INFORMATION>
+</EFX_PART_II>
+<EFX_PART_III>
+<A NAME="FIS_PART_III"></A>
+<P STYLE="MARGIN-TOP:24PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Part III
+</B>
+</P>
+<EFX_DIRECTORS_AND_OFFICERS>
+<A NAME="FIS_DIRECTORS_AND_OFFICERS"></A>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;10. Directors and
+	Executive Officers of the Registrant.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable.
+</P>
+</EFX_DIRECTORS_AND_OFFICERS>
+<EFX_COMPENSATION>
+<A NAME="FIS_COMPENSATION"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;11. Executive Compensation.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable.
+</P>
+</EFX_COMPENSATION>
+<EFX_SECURITY_OWNERS>
+<A NAME="FIS_SECURITY_OWNERS"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	None.
+</P>
+</EFX_SECURITY_OWNERS>
+<EFX_OFFICER_TRANSACTIONS>
+<A NAME="FIS_OFFICER_TRANSACTIONS"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;13. Certain Relationships and Related
+	Transactions.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	None.
+</P>
+</EFX_OFFICER_TRANSACTIONS>
+<EFX_ACCOUNTANT_FEES>
+<A NAME="FIS_ACCOUNTANT_FEES"></A>
+<P STYLE="MARGIN-TOP:18PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;14. Principal
+	Accounting Fees and Services
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Not Applicable.
+</P>
+<A NAME="eolPage5"></A>
+<P STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+<HR SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+</EFX_ACCOUNTANT_FEES>
+</EFX_PART_III>
+<EFX_PART_IV>
+<A NAME="FIS_PART_IV"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Part IV
+</B>
+</P>
+<EFX_EXHIBITS>
+<A NAME="FIS_EXHIBITS"></A>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+<B>
+	Item&nbsp;15. Exhibits and Financial Statement Schedules.
+</B>
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	(a) Not Applicable.
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	(b) (1) Certification pursuant to Rule
+	13a-14 of the Securities Exchange Act of 1934 is filed herewith as Exhibit 31.1.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	(2) The Trustee&#146;s statement of compliance with
+	respect to the Trust Agreement is filed herewith as Exhibit 99.1.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	(3) Report of Aston Bell, CPA is filed herewith as Exhibit 99.2.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	(4) Disclosure Pursuant to Section 13(r) of the Securities Exchange Act of 1934 is filed herewith as Exhibit 99.3
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	(5) The Current Reports on Form 8-K filed by Corporate Asset Backed Corporation during the Fiscal Year on behalf of CABCO Series 2004-102
+	Trust (SBC Communications Inc.) that included distribution reports to the respective Certificate holders, are incorporated herein as Exhibits 99.4, 99.5, 99.6 and 99.7.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	(c) Not Applicable.
+</P>
+<A NAME="eolPage6"></A>
+<P STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+<HR SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+</EFX_EXHIBITS>
+</EFX_PART_IV>
+<EFX_SIGNATURES>
+<A NAME="FIS_SIGNATURES"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	SIGNATURES
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be
+	signed on its behalf by the undersigned, thereunto duly authorized on this March 29, 2016.
+</P>
+<P STYLE="MARGIN-TOP:24PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	CORPORATE ASSET BACKED CORPORATION
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+	as Depositor of the
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+	CABCO Series
+	2004-102 Trust (SBC Communications Inc.)
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:30%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	By:
+<U>
+	/s/ Lee Thompson
+</U>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:30%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Name:
+<U>
+	Lee Thompson
+</U>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; TEXT-INDENT:30%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Title: Vice President
+</P>
+<A NAME="eolPage7"></A>
+<P STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+<HR SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+</EFX_SIGNATURES>
+<EFX_EXHIBIT_INDEX>
+<A NAME="FIS_EXHIBIT_INDEX"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	EXHIBIT INDEX
+</B>
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<EFX_UNIDENTIFIED_TABLE>
+<A NAME="FIS_UNIDENTIFIED_TABLE_3"></A>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" ALIGN="CENTER">
+<TR>
+<TD>
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="4%">
+</TD>
+<TD WIDTH="88%">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP">
+	Exhibit&nbsp;No.
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="TOP">
+	Description of Document
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="8">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" NOWRAP>
+	31.1
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="TOP">
+	Rule 13a-14 Certification.
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="8">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" NOWRAP>
+	99.1
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="TOP">
+	Trustee Statement of Compliance with respect to CABCO Series 2004-102 Trust (SBC Communications Inc.).
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="8">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" NOWRAP>
+	99.2
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="TOP">
+	Report of Aston Bell, Certified Public Accountant.
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="8">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" NOWRAP>
+	99.3
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="TOP">
+	Disclosure Pursuant to Section 13(r) of the Securities Exchange Act of 1934
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="8">
+</TD>
+<TD HEIGHT="8" COLSPAN="2">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" NOWRAP>
+<FONT STYLE="WHITE-SPACE:NOWRAP">
+	99.4-99.7*
+</FONT>
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;&nbsp;
+</TD>
+<TD VALIGN="TOP">
+	Current Reports on Form 8-K filed by Corporate Asset Backed Corporation during the Fiscal Year on behalf of CABCO Series 2004-102 Trust (SBC Communications Inc.) that included distribution reports to the Certificate
+	holders:&nbsp;Form 8-K Reports filed on March 19, 2015, June 19, 2015, September 21, 2015 and December 21, 2015.
+</TD>
+</TR>
+</TABLE>
+</EFX_UNIDENTIFIED_TABLE>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="2%" VALIGN="TOP" ALIGN="LEFT">
+	*
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+	Previously filed with the Securities and Exchange Commission.
+</TD>
+</TR>
+</TABLE>
+</EFX_EXHIBIT_INDEX>
+</EFX_FORM>
+
+<DIV CLASS="eolNewPage"></DIV>
+<A NAME="eolPage8"></A>
+<A NAME="D172263DEX311_HTM"></A>
+<EFX_EXHIBIT_31>
+<A NAME="FIS_EXHIBIT_31"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="RIGHT">
+<U>
+	Exhibit No.&nbsp;31.1
+</U>
+</P>
+<EFX_CERTIFICATION>
+<A NAME="FIS_CERTIFICATION"></A>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	CERTIFICATION UNDER RULE 13a-14 OF THE SECURITIES EXCHANGE ACT OF 1934 FOR
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	CABCO SERIES 2004-102 TRUST (SBC COMMUNICATIONS INC.) ANNUAL REPORT ON
+</B>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	FORM 10-K FOR THE FISCAL YEAR ENDED DECEMBER 31, 2015
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	I,
+<U>
+	Lee Thompson
+</U>
+	, certify that:
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	1. I have
+	reviewed this annual report on Form 10-K, and all reports on Form 8-K containing distribution or servicing reports filed in respect of the periods included in the year covered by this annual report, filed by Corporate Asset Backed Corporation, on
+	behalf of CABCO Series 2004-102 Trust (SBC Communications Inc.);
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	2. Based on my knowledge, the information in these reports, taken as a
+	whole, does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading as of the last day of the
+	period covered by this annual report;
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	3. Based on my knowledge, the distribution or servicing information required to be provided to the
+	depositor by the trustee under the pooling and servicing, or similar, agreement, for inclusion in these reports is included in these reports;
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	4. I am responsible for reviewing the activities performed by the depositor and the trustee under the pooling and servicing, or similar,
+	agreement and based upon my knowledge and the annual compliance review required under that agreement, and except as disclosed in the reports, the depositor and trustee have each fulfilled its obligations under that agreement; and
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:4%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	5. The reports disclose all significant deficiencies relating to the compliance by the trustee and the depositor with the minimum servicing
+	standards or similar standards based upon the report provided by an independent public accountant, after conducting a review in compliance with the Uniform Single Attestation Program for Mortgage Bankers or similar procedure, as set forth in the
+	pooling and servicing, or similar, agreement, that is included in these reports.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	In giving the certifications above, I have reasonably relied on
+	information provided to me by the following unaffiliated parties: U.S. Bank Trust National Association, as trustee.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Date:&nbsp;March 29, 2016
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:54%; TEXT-INDENT:-2%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	By:
+<U>
+	/s/ Lee Thompson
+</U>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:54%; TEXT-INDENT:-2%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Name:
+<U>
+	Lee Thompson
+</U>
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:54%; TEXT-INDENT:-2%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Title: Vice President
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; MARGIN-LEFT:54%; TEXT-INDENT:-2%; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Corporate Asset Backed Corporation
+</P>
+</EFX_CERTIFICATION>
+</EFX_EXHIBIT_31>
+
+<DIV CLASS="eolNewPage"></DIV>
+<A NAME="eolPage9"></A>
+<A NAME="D172263DEX991_HTM"></A>
+<EFX_EXHIBIT_99>
+<A NAME="FIS_EXHIBIT_99"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="RIGHT">
+<U>
+	Exhibit No. 99.1
+</U>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	TRUSTEE STATEMENT OF COMPLIANCE
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	I, David
+	J. Kolibachuk, acting on behalf of U.S. Bank Trust National Association (the &#147;Trustee&#148;), hereby certify that the Trustee has fulfilled its obligations as trustee under the trust agreement, dated December 15, 2004, between Corporate Asset
+	Backed Corporation, as depositor, and the Trustee, with respect to the CABCO Series 2004-102 Trust (SBC Communications Inc.) during the period from January 1, 2015 to December 31, 2015.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Date: February&nbsp;19, 2016
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<DIV ALIGN="RIGHT">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TR>
+<TD WIDTH="6%">
+</TD>
+<TD VALIGN="BOTTOM" WIDTH="2%">
+</TD>
+<TD WIDTH="92%">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" COLSPAN="3">
+	U.S. BANK TRUST NATIONAL ASSOCIATION, as Trustee of
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="16" COLSPAN="3">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP" COLSPAN="3">
+<B>
+	CABCO Series 2004-102 Trust (SBC Communications Inc.)
+</B>
+</TD>
+</TR>
+<TR STYLE="FONT-SIZE:1PT">
+<TD HEIGHT="16">
+</TD>
+<TD HEIGHT="16" COLSPAN="2">
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP">
+	By:
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP">
+<U>
+	/s/ David J. Kolibachuk
+</U>
+</TD>
+</TR>
+<TR STYLE="FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT">
+<TD VALIGN="TOP">
+</TD>
+<TD VALIGN="BOTTOM">
+	&nbsp;
+</TD>
+<TD VALIGN="TOP">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Name: David J. Kolibachuk
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:1PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Title: Vice
+	President
+</P>
+</TD>
+</TR>
+</TABLE>
+</DIV>
+</EFX_EXHIBIT_99>
+
+<DIV CLASS="eolNewPage"></DIV>
+<A NAME="eolPage10"></A>
+<A NAME="D172263DEX992_HTM"></A>
+<EFX_EXHIBIT_99>
+<A NAME="FIS_EXHIBIT_99_2"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="RIGHT">
+<U>
+	Exhibit No. 99.2
+</U>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+	[On Letterhead of Aston Bell, Certified Public Accountant]
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Independent Accountant&#146;s Report
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Corporate Asset Backed Corporation, (as Depositor)
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	68 South
+	Service Road, Suite 120
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Melville, NY 11747
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	U.S. Bank Trust
+	National Association
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Corporate Trust Services
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	100 Wall
+	Street, Suite 1600
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	New York, NY 10005
+</P>
+<P STYLE="FONT-SIZE:12PT;MARGIN-TOP:0PT;MARGIN-BOTTOM:0PT">
+	&nbsp;
+</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; FONT-FAMILY:TIMES NEW ROMAN; FONT-SIZE:10PT" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="TOP" ALIGN="LEFT">
+	Re:
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<U>
+	CABCO Series 2004-102 Trust (SBC Communications Inc.) (the &#147;Trust&#148;)
+</U>
+</TD>
+</TR>
+</TABLE>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Ladies and Gentlemen:
+</P>
+<P STYLE="MARGIN-TOP:6PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	We have examined assertions of Corporate Asset Backed Corporation (the &#147;Depositor&#148;) and U.S. Bank Trust National Association, (the
+	&#147;Trustee&#148; and, together with the Depositor, the &#147;Management&#148;) that the Depositor and the Trustee have complied, in all material respects, with the provisions of the Trust Agreement dated as of December 15, 2004, (the &#147;Trust
+	Agreement&#148;) in respect of the CABCO Series 2004-102 Trust (SBC Communications Inc.) (the &#147;Trust&#148;), during the periods covered by the annual report on Form&nbsp;10-K filed by the Depositor on behalf of the Trust for the year ended
+	December 31, 2015 (the &#147;Annual Report&#148;). Management is responsible for compliance with the Trust Agreement. Our responsibility is to express an opinion on Management&#146;s assertions based on our examination.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Our examination was made in accordance with attestation standards established by the American Institute of Certified Public Accountants and, accordingly,
+	included examining, on a test basis, evidence about the Depositor&#146;s and the Trustee&#146;s compliance with the Trust Agreement and performing such other procedures as considered necessary in the circumstances. We believe that our examination
+	provides a reasonable basis for our opinion.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	In our opinion, the Depositor and the Trustee have complied, in all material respects, with the Trust
+	Agreement during the period covered by the Annual Report and Management&#146;s assertions with respect to such compliance are fairly stated, in all material respects, for the year ended December 31, 2015.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	/s/ Aston Bell, CPA
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	New York, New York
+</P>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	March 21, 2016
+</P>
+</EFX_EXHIBIT_99>
+
+<DIV CLASS="eolNewPage"></DIV>
+<A NAME="eolPage11"></A>
+<A NAME="D172263DEX993_HTM"></A>
+<EFX_EXHIBIT_99>
+<A NAME="FIS_EXHIBIT_99_3"></A>
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="RIGHT">
+<U>
+	Exhibit No. 99.3
+</U>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	Disclosure Pursuant to Section 13(r) of the Securities Exchange Act of 1934
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	The disclosure below does not relate to any activities conducted by Corporate Asset Backed Corporation (the &#147;Depositor&#148;) or CABCO Series 2004-102
+	Trust (SBC Communications Inc.) (the &#147;Trust&#148;) and does not involve the Depositor or the Trust.&nbsp;The disclosure relates solely to activities conducted by UBS AG or UBS Group AG (together &#147;UBS&#148;) as disclosed in UBS&#146;s joint
+	Annual Report on Form 20-F for the year ended December 31, 2015, which was filed with the Securities and Exchange Commission on March 18, 2016.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Section&nbsp;219 of the U.S. Iran Threat Reduction and Syria Human Rights Act of 2012 (&#147;ITRA&#148;) added new Section&nbsp;13(r) to the U.S. Securities
+	Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;) requiring each SEC reporting issuer to disclose in its annual and, if applicable, quarterly reports whether it or any of its affiliates have knowingly engaged in certain activities,
+	transactions or dealings relating to Iran or with the Government of Iran or certain designated natural persons or entities involved in terrorism or the proliferation of weapons of mass destruction during the period covered by the report. The
+	required disclosure includes disclosure of activities not prohibited by U.S. or other law even if conducted outside the U.S. by non-U.S. affiliates in compliance with local law.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	UBS is the indirect parent of the Depositor and may be deemed an &#147;affiliate&#148; of the Trust as defined in Rule 12b-2 of the Exchange Act. UBS has made
+	disclosure pursuant to Section 219 of ITRA and Section 13(r) of the Exchange Act in their joint Annual Report on Form 20-F for the year ended December 31, 2015. As a result, the Depositor is providing the disclosure set forth below pursuant to those
+	provisions.&nbsp;It should therefore be noted that the joint Annual Report on Form 20-F for the year ended December 31, 2015, filed by UBS with the Securities and Exchange Commission on March 18, 2016, contained the disclosure set forth below.
+</P>
+<P STYLE="MARGIN-TOP:24PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN" ALIGN="CENTER">
+<B>
+	&#147;Disclosure Pursuant To Section 219 of the Iran Threat Reduction And Syrian Human Rights Act
+</B>
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Section 219 of the U.S. Iran Threat Reduction and Syria Human Rights Act of 2012 (&#147;ITRA&#148;) added Section 13(r) to the U.S. Securities Exchange Act of
+	1934, as amended (the &#147;Exchange Act&#148;) requiring each SEC reporting issuer to disclose in its annual and, if applicable, quarterly reports whether it or any of its affiliates have knowingly engaged in certain activities, transactions or
+	dealings relating to Iran or with the Government of Iran or certain designated natural persons or entities involved in terrorism or the proliferation of weapons of mass destruction during the period covered by the report. The required disclosure may
+	include reporting of activities not prohibited by U.S. or other law, even if conducted outside the U.S. by non-U.S. affiliates in compliance with local law.&nbsp;Pursuant to Section 13(r) of the Exchange Act, we note the following for the period
+	covered by this annual report:
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	UBS has a Group Sanctions Policy that prohibits transactions involving sanctioned countries, including Iran, and
+	sanctioned individuals and entities. However, UBS maintains one account involving the Iranian government under the auspices of the United Nations in Geneva after agreeing with the Swiss government that it would do so only under certain conditions.
+	These conditions include that payments involving the account must: (1) be made within Switzerland; (2) be consistent with paying rent, salaries, telephone and other expenses necessary for its operations in Geneva; and (3) not involve any Specially
+	Designated Nationals (SDN) blocked or otherwise restricted under U.S. or Swiss law.&nbsp;In 2015, the gross revenues for this UN-related account were approximately USD 9,639 which were generated by fees charged to the account; the net profit was
+	approximately USD 6,664 after deductions were taken for UBS internal costs for maintaining the account.&nbsp;UBS AG intends to continue maintaining this account pursuant to the conditions it has established with the Swiss Government and consistent
+	with its Group Sanctions Policy.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	As previously reported, UBS had certain outstanding legacy trade finance arrangements issued on behalf of Swiss client
+	exporters in favor of their Iranian counterparties. At the time these trade finance arrangements were initiated in or about 2000, none of the Iran banks involved were WMD-designated.&nbsp;In February 2012
+</P>
+<A NAME="eolPage12"></A>
+<P STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+<HR SIZE="3" STYLE="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<P STYLE="MARGIN-TOP:0PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	UBS ceased accepting payments on these outstanding export trade finance arrangements and worked with the Swiss government who insured these contracts (Swiss Export Risk Insurance
+	&#147;SERV&#148;). On December 21, 2012, UBS and the SERV entered into certain Transfer and Assignment Agreements under which SERV purchased all of UBS&#146;s remaining receivables under or in connection with Iran-related export finance
+	transactions. Hence, the SERV is the sole beneficiary of said receivables.&nbsp;There was no financial activity involving Iran in connection with these trade finance arrangements in 2015, and no gross revenue or net profit.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	In connection with these trade finance arrangements, UBS has maintained one existing account relationship with an Iranian bank. This account was established
+	prior to the U.S. designation of this bank and maintained due to the existing trade finance arrangements.&nbsp;In 2007, following the designation of the bank pursuant to sanctions issued by the US, UN and Switzerland, the account was blocked under
+	Swiss law and remained subject to blocking requirements until January 2016.&nbsp;Client assets as of December 2015 were USD 3,174.&nbsp;As there have been no transactions involving this account in 2015 other than general account fees, there are no
+	gross revenues or net profits to report for 2015.
+</P>
+<P STYLE="MARGIN-TOP:12PT; MARGIN-BOTTOM:0PT; FONT-SIZE:10PT; FONT-FAMILY:TIMES NEW ROMAN">
+	Pursuant to the Joint Plan of Action (JPOA) and the Joint Comprehensive Plan of Action (JCPOA), the
+	parties to these Plans, including the US, agreed to facilitate certain payments regarding funds of the Central Bank of Iran (CBI). The Swiss State Secretariat for Economic Affairs (SECO) was contacted in this regard by the US Office of Foreign
+	Assets Control (OFAC), and SECO then approached UBS to request assistance in several such transfers of oil revenues for humanitarian purposes. On the basis of this request and specific written approval and guidance from OFAC regarding the
+	transactions, UBS processed several transfers from the Bank of Japan to certain special purpose accounts at a third party bank in Switzerland. Following Implementation Day, the CBI was removed from the SDN list. These transactions yielded negligible
+	gross revenues and no net profits.&#148;
+</P>
+</EFX_EXHIBIT_99>
+
+<!-- FOOTER LOGO -->
+</BODY>
+</HTML>
